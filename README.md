@@ -124,24 +124,4 @@ DQUANT, RDQI_resid (quality orthogonal to quantity, for the robustness test), an
 one-year lags ready to regress on firm value. Also prints Cronbach's alpha and the
 quality-quantity correlation.
 
-If that correlation exceeds about 0.85, quality and quantity are not empirically
-distinct and your headline claim is in trouble. The fix is in the rubric: the 0/1/2
-anchors need to reward quantified, company-specific content rather than presence.
-
-## Things reviewers will ask
-
-- **Why an LLM?** Answer with the validation statistics, not with the method. Report
-  the kappa, the subsample size, the seed, and the confusion matrix.
-- **Is it reproducible?** Temperature 0, fixed rubric, cached prompts, pinned model
-  version. State the model version and the date range of scoring in the paper.
-- **Did the model hallucinate evidence?** Spot-check `quality_evidence.csv`: search
-  each quote in the source text. Add a column reporting the share of quotes verified.
-- **Boilerplate drift.** Firms copy their own prior-year wording. A within-firm
-  disclosure change is therefore meaningful; report how often RDQI changes at all.
-
-## Cost and runtime
-
-About 1,000 firm-years at roughly 10-20k input tokens each is a few hours of wall
-time and a modest API bill; the cache means a re-run after a rubric fix only re-scores
-what changed. Steps 1, 2, 4, 5 and 6 are free and run in minutes.
 
