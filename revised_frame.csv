@@ -1,0 +1,111 @@
+entity_id,company,exchange,regime_original,regime_revised,africa_share,frame_status,reason,panel_start,panel_end,n_years,notes,group_id
+28563927,Arras Minerals Corp.,TSXV,NI 43-101,NI 43-101,0.0,DROP,africa_share = 0 - fails the frame definition (at least one African mining property),2012,2025,14,,28563927
+4355358,Global Copper Corp.,TSXV,NI 43-101,NI 43-101,0.0,DROP,africa_share = 0 - fails the frame definition (at least one African mining property),2012,2025,14,,4355358
+4353365,Placer Dome Inc.,TSX,NI 43-101,NI 43-101,0.4301,DROP,Acquired by Barrick in 2006 - cannot appear in a 2012-2025 panel,2012,2025,14,,4353365
+10758260,Sultan Resources Limited,ASX,JORC,JORC,0.0,DROP,africa_share = 0 - fails the frame definition (at least one African mining property),2012,2025,14,,10758260
+4288337,Adavale Resources Limited,ASX,JORC,JORC,0.4132,KEEP,,2012,2025,14,,4288337
+4188197,African Rainbow Minerals Limited,JSE,SAMREC,SAMREC,1.0,KEEP,,2012,2025,14,,4188197
+4193273,Anglo American plc,LSE,JORC/PERC (UK),JORC/PERC (UK),0.1637,KEEP,,2012,2025,14,,4193273
+4353124,Arc Minerals Limited,AIM,JORC/PERC (UK),JORC/PERC (UK),1.0,KEEP,,2012,2025,14,,4353124
+4354085,Arrow Minerals Limited,ASX,JORC,JORC,0.7049,KEEP,,2012,2025,14,,4354085
+4350449,Arrowhead Resources Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,4350449
+4356548,Asante Gold Corporation,TSXV,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,4356548
+28884445,Askari Metals Limited,ASX,JORC,JORC,0.4,KEEP,,2012,2025,14,,28884445
+4348248,Astron Corporation Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,4348248
+4348292,Aura Minerals Inc.,NASDAQGS,SEC S-K 1300,SEC S-K 1300,0.0436,KEEP,,2021,2025,5,S-K 1300 applies only from FY2021; earlier years were Industry Guide 7 and are not comparable | Disclosure is PROPERTY-level (Exhibit 96 per mine) - decide how a firm-year is scored | africa_share below 10% - confirm this clears your materiality threshold,4348292
+4354307,Auravelle Metals Limited,ASX,JORC,JORC,0.1,KEEP,,2012,2025,14,,4354307
+4649809,Avanti Gold Corp.,CNSX,NI 43-101,NI 43-101,0.5915,KEEP,,2012,2025,14,,4649809
+4983054,Awalé Resources Limited,TSXV,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,4983054
+4120225,Barrick Mining Corporation,TSX,NI 43-101,NI 43-101,0.2511,KEEP,,2012,2025,14,,4120225
+4352480,Barys Resources Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,4352480
+4360334,Black Rock Mining Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,4360334
+4357867,CAT Strategic Metals Corporation,CNSX,NI 43-101,NI 43-101,0.1111,KEEP,,2012,2025,14,,4357867
+4348891,Canaf Investments Inc.,TSXV,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,4348891
+4355222,Celsius Resources Limited,ASX,JORC,JORC,0.2,KEEP,,2012,2025,14,,4355222
+4349189,Chrometco Limited,JSE,SAMREC,SAMREC,1.0,KEEP,,2012,2025,14,,4349189
+4349371,Compagnie Minière de Touissit S.A.,CBSE,Other,Other,1.0,KEEP,,2012,2025,14,,4349371
+4698527,Cora Gold Limited,AIM,JORC/PERC (UK),JORC/PERC (UK),1.0,KEEP,,2017,2025,9,Cora Gold AIM listing 2017,4698527
+4349725,DFR Gold Inc.,TSXV,NI 43-101,NI 43-101,0.9266,KEEP,,2012,2025,14,,4349725
+29615874,Dalaroo Metals Ltd,ASX,JORC,JORC,0.2857,KEEP,,2012,2025,14,,29615874
+107987638,DeSoto Resources Limited,ASX,JORC,JORC,0.5263,KEEP,,2012,2025,14,,107987638
+4349700,Desert Gold Ventures Inc.,TSXV,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,4349700
+4349873,Eastern Platinum Limited,TSX,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,4349873
+4359109,Elcora Advanced Materials Corp.,TSXV,NI 43-101,NI 43-101,0.5882,KEEP,,2012,2025,14,,4359109
+9282921,Elemental Royalty Corporation,TSX,NI 43-101,NI 43-101,0.1099,KEEP,,2012,2025,14,,9282921
+8920691,Emmerson PLC,AIM,JORC/PERC (UK),JORC/PERC (UK),1.0,KEEP,,2017,2025,9,Emmerson AIM listing 2017,8920691
+4349981,Endeavour Mining plc,TSX,NI 43-101,NI 43-101,0.9261,KEEP,,2012,2025,14,,4349981
+5578992,Evion Group NL,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,5578992
+4978912,Famien Resources Limited,ASX,JORC,JORC,0.5,KEEP,,2012,2025,14,,4978912
+100453955,Firering Strategic Minerals Plc,AIM,JORC/PERC (UK),JORC/PERC (UK),1.0,KEEP,,2021,2025,5,Firering AIM listing 2021,100453955
+4350215,First Quantum Minerals Ltd.,TSX,NI 43-101,NI 43-101,0.4783,KEEP,,2012,2025,14,,4350215
+28250936,Forrestania Resources Limited,ASX,JORC,JORC,0.0515,KEEP,,2012,2025,14,africa_share below 10% - confirm this clears your materiality threshold,28250936
+4350323,Galileo Resources Plc,AIM,JORC/PERC (UK),JORC/PERC (UK),0.5913,KEEP,,2012,2025,14,,4350323
+4533261,Genmin Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,4533261
+4350468,Global Atomic Corporation,TSX,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,4350468
+4350486,Globe Metals & Mining Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,4350486
+4144674,Gold Fields Limited,JSE,SAMREC,SAMREC,0.1105,KEEP,,2012,2025,14,,4144674
+4350571,Golden Deeps Limited,ASX,JORC,JORC,0.1667,KEEP,,2012,2025,14,,4350571
+4350612,Goldex Resources Corporation,TSXV,NI 43-101,NI 43-101,0.3377,KEEP,,2012,2025,14,,4350612
+4350620,Goldplat PLC,AIM,JORC/PERC (UK),VERIFY - likely SAMREC,0.5,KEEP,,2012,2025,14,REGIME RECLASSIFIED: Goldplat operates in South Africa and Ghana,4350620
+4155293,Harmony Gold Mining Company Limited,JSE,SAMREC,SAMREC,0.8379,KEEP,,2012,2025,14,,4155293
+4351190,Impala Platinum Holdings Limited,JSE,SAMREC,SAMREC,0.4173,KEEP,,2012,2025,14,,4351190
+4351196,Indiana Resources Limited,ASX,JORC,JORC,0.4108,KEEP,,2012,2025,14,,4351196
+4353110,Ionic Rare Earths Limited,ASX,JORC,JORC,0.375,KEEP,,2012,2025,14,,4353110
+4351368,Ivanhoe Mines Ltd.,TSX,NI 43-101,NI 43-101,0.8834,KEEP,,2012,2025,14,,4351368
+4351484,Jubilee Metals Group PLC,AIM,JORC/PERC (UK),VERIFY - likely SAMREC,1.0,KEEP,,2012,2025,14,REGIME RECLASSIFIED: Jubilee operates in South Africa and Zambia,4351484
+4348552,Kendrick Resources PLC,LSE,JORC/PERC (UK),JORC/PERC (UK),0.2653,KEEP,,2012,2025,14,,4348552
+4351564,Kenmare Resources plc,LSE,JORC/PERC (UK),JORC/PERC (UK),1.0,KEEP,,2012,2025,14,doc_type: embedded - Kenmare has no standalone reserve statement in any year,4351564
+4205460,Koryx Copper S.A.,TSXV,NI 43-101,NI 43-101,0.4628,KEEP,,2012,2025,14,,4205460
+4351694,Kumba Iron Ore Limited,JSE,SAMREC,SAMREC,1.0,KEEP,,2012,2025,14,,4193273
+108596101,Lifezone Metals Limited,NYSE,SEC S-K 1300,SEC S-K 1300,1.0,KEEP,,2023,2025,3,S-K 1300 applies only from FY2021; earlier years were Industry Guide 7 and are not comparable | Disclosure is PROPERTY-level (Exhibit 96 per mine) - decide how a firm-year is scored | Lifezone listed via SPAC in July 2023,108596101
+4352028,Managem S.A.,CBSE,Other,Other,1.0,KEEP,,2012,2025,14,,4352028
+4352033,Manhattan Gold Corporation Limited,ASX,JORC,JORC,0.4651,KEEP,,2012,2025,14,,4352033
+4352188,Merafe Resources Limited,JSE,SAMREC,SAMREC,1.0,KEEP,,2012,2025,14,,4352188
+101484796,MetalsGrove Mining Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,101484796
+10726386,Midas Minerals Limited,ASX,JORC,JORC,0.25,KEEP,,2012,2025,14,,10726386
+17580030,Montage Gold Corp.,TSX,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,17580030
+106605452,NGX Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,106605452
+4352666,Namibia Critical Metals Inc.,TSXV,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,4352666
+4364530,Newcore Gold Ltd.,TSXV,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,4364530
+4075105,Newmont Corporation,NYSE,SEC S-K 1300,SEC S-K 1300,0.0301,KEEP,,2021,2025,5,S-K 1300 applies only from FY2021; earlier years were Industry Guide 7 and are not comparable | Disclosure is PROPERTY-level (Exhibit 96 per mine) - decide how a firm-year is scored | africa_share below 10% - confirm this clears your materiality threshold,4075105
+4352870,North Arrow Minerals Inc.,TSXV,NI 43-101,NI 43-101,0.1481,KEEP,,2012,2025,14,,4352870
+4264043,Northam Platinum Holdings Limited,JSE,SAMREC,SAMREC,1.0,KEEP,,2012,2025,14,"Northam Platinum HOLDINGS created in the 2021 restructure; earlier filings under Northam Platinum Limited (JSE: NHM) | doc_type: mixed - standalone from 2023, embedded in the AFS before that",4264043
+4363836,Northern Graphite Corporation,TSXV,NI 43-101,NI 43-101,0.25,KEEP,,2012,2025,14,,4363836
+4359967,Opus One Gold Corporation,TSXV,NI 43-101,NI 43-101,0.1667,KEEP,,2012,2025,14,,4359967
+4354598,Oriole Resources PLC,AIM,JORC/PERC (UK),JORC/PERC (UK),1.0,KEEP,,2012,2025,14,Formerly Stratex International - name changed 2018; search both names,4354598
+4353093,Orion Minerals Limited,ASX,JORC,JORC,0.7181,KEEP,,2012,2025,14,,4353093
+4979447,Pambili Natural Resources Corporation,TSXV,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,4979447
+4353200,Pan African Resources PLC,LSE,JORC/PERC (UK),SAMREC,0.4167,KEEP,,2012,2025,14,"REGIME RECLASSIFIED: 2023 report states compliance with the SAMREC Code, not PERC",4353200
+4363503,Pasofino Gold Limited,TSXV,NI 43-101,NI 43-101,0.5,KEEP,,2012,2025,14,,4363503
+108040997,Patriot Resources Limited,ASX,JORC,JORC,0.319,KEEP,,2012,2025,14,,108040997
+4353274,Pelangio Exploration Inc.,TSXV,NI 43-101,NI 43-101,0.367,KEEP,,2012,2025,14,,4353274
+4350306,Premier African Minerals Limited,AIM,JORC/PERC (UK),JORC/PERC (UK),1.0,KEEP,,2012,2025,14,,4350306
+4348859,Quebec Rare Earth Elements Corp.,CNSX,NI 43-101,NI 43-101,0.1212,KEEP,,2012,2025,14,,4348859
+26025602,ReeXploration Inc.,TSXV,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,26025602
+4149660,Rio Tinto Group,LSE,JORC/PERC (UK),JORC/PERC (UK),0.0637,KEEP,,2012,2025,14,africa_share below 10% - confirm this clears your materiality threshold,4149660
+4353879,Rome Resources Plc,AIM,JORC/PERC (UK),JORC/PERC (UK),1.0,KEEP,,2012,2025,14,,4353879
+4366922,Royal Road Minerals Limited,TSXV,NI 43-101,NI 43-101,0.1948,KEEP,,2012,2025,14,,4366922
+4354011,Sandfire Resources Limited,ASX,JORC,JORC,0.0622,KEEP,,2012,2025,14,africa_share below 10% - confirm this clears your materiality threshold,4354011
+6378547,Santa Fe Minerals Limited,ASX,JORC,JORC,0.5,KEEP,,2012,2025,14,,6378547
+4379789,Sibanye Stillwater Limited,JSE,SAMREC,SAMREC,0.7265,KEEP,,2013,2025,13,Unbundled from Gold Fields in February 2013 - no FY2012 report,4379789
+4351355,Skylark Minerals Limited,ASX,JORC,JORC,0.2941,KEEP,,2012,2025,14,,4351355
+19743811,Sun Peak Metals Corp.,TSXV,NI 43-101,NI 43-101,0.3333,KEEP,,2012,2025,14,,19743811
+4354685,Syrah Resources Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,4354685
+4352593,TalonX Resources Limited,ASX,JORC,JORC,0.5,KEEP,,2012,2025,14,,4352593
+4549637,Tharisa plc,JSE,SAMREC,SAMREC,1.0,KEEP,,2016,2025,10,Tharisa listed on the JSE and LSE in 2016,4549637
+4347822,Toubani Resources Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,4347822
+4355585,Trek Metals Limited,ASX,JORC,JORC,0.1404,KEEP,,2012,2025,14,,4355585
+4355011,Tsodilo Resources Limited,TSXV,NI 43-101,NI 43-101,1.0,KEEP,,2012,2025,14,,4355011
+4355051,Ucore Rare Metals Inc.,TSXV,NI 43-101,NI 43-101,0.1694,KEEP,,2012,2025,14,,4355051
+4367262,Unisel Gold Mines Ltd.,JSE,SAMREC,SAMREC,1.0,KEEP,,2012,2025,14,,4367262
+4348055,Valterra Platinum Limited,JSE,SAMREC,SAMREC,1.0,KEEP,,2012,2025,14,Renamed from Anglo American Platinum - search the OLD name for 2012-2024,4193273
+4348144,WIA Gold Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,4348144
+4355312,Wesizwe Platinum Limited,JSE,SAMREC,SAMREC,1.0,KEEP,,2012,2025,14,,4355312
+4355316,West African Resources Limited,ASX,JORC,JORC,1.0,KEEP,,2012,2025,14,,4355316
+4355327,West Wits Mining Limited,ASX,JORC,JORC,0.5549,KEEP,,2012,2025,14,,4355327
+4796000,Alcoa Corporation,NYSE,SEC S-K 1300,SEC S-K 1300,0.0276,VERIFY,Alcoa's Exhibit 96 filings cover Darling Range (Australia) and Juruti (Brazil). No Guinea TRS found - the African bauxite is a non-managed JV,2012,2025,14,,4796000
+25470516,Guskin Gold Corp.,OTCEM,SEC S-K 1300,SEC S-K 1300,1.0,VERIFY,Guskin Gold is an OTC shell - verify any African operating asset,2012,2025,14,,25470516
+4353973,Sage Gold Inc.,OTCEM,SEC S-K 1300,SEC S-K 1300,0.2381,VERIFY,"Sage Gold's assets are in Ontario, Canada - africa_share 0.238 looks wrong",2012,2025,14,,4353973
+4356041,Savannah Resources Plc,AIM,JORC/PERC (UK),JORC/PERC (UK),0.5575,VERIFY,Savannah's principal asset is Barroso lithium in PORTUGAL - verify African share holds across the window,2012,2025,14,,4356041
+4020536,Scully Royalty Ltd.,NYSE,SEC S-K 1300,SEC S-K 1300,1.0,VERIFY,"Scully Royalty is a royalty and merchant business, not a mine operator",2012,2025,14,,4020536
+4347817,Vast Resources plc,AIM,JORC/PERC (UK),JORC/PERC (UK),0.1986,VERIFY,Vast Resources is largely Romanian - africa_share 0.199,2012,2025,14,,4347817

@@ -1,0 +1,1713 @@
+tier,firm_id,year,file,item,label,max,human_score,note,coder
+1,4075105,2013,4075105_2013.pdf,I1,Competent Person named,1,1,"on reserves release, not annual report.",1
+1,4075105,2013,4075105_2013.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4075105,2013,4075105_2013.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4075105,2013,4075105_2013.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4075105,2013,4075105_2013.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4075105,2013,4075105_2013.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4075105,2013,4075105_2013.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4075105,2013,4075105_2013.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4075105,2013,4075105_2013.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4075105,2013,4075105_2013.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4075105,2013,4075105_2013.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4075105,2013,4075105_2013.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4075105,2013,4075105_2013.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4075105,2013,4075105_2013.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4075105,2013,4075105_2013.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4075105,2013,4075105_2013.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4075105,2013,4075105_2013.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4075105,2013,4075105_2013.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4075105,2013,4075105_2013.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4075105,2013,4075105_2013.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4075105,2013,4075105_2013.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4075105,2013,4075105_2013.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4075105,2013,4075105_2013.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4075105,2013,4075105_2013.pdf,I24,Competent Person site visit,1,0,,1
+1,4075105,2015,4075105_2015.pdf,I1,Competent Person named,1,1,stated,1
+1,4075105,2015,4075105_2015.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4075105,2015,4075105_2015.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4075105,2015,4075105_2015.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4075105,2015,4075105_2015.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4075105,2015,4075105_2015.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4075105,2015,4075105_2015.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4075105,2015,4075105_2015.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4075105,2015,4075105_2015.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4075105,2015,4075105_2015.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4075105,2015,4075105_2015.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4075105,2015,4075105_2015.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4075105,2015,4075105_2015.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4075105,2015,4075105_2015.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4075105,2015,4075105_2015.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4075105,2015,4075105_2015.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4075105,2015,4075105_2015.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4075105,2015,4075105_2015.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4075105,2015,4075105_2015.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4075105,2015,4075105_2015.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4075105,2015,4075105_2015.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4075105,2015,4075105_2015.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4075105,2015,4075105_2015.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4075105,2015,4075105_2015.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,4075105,2016,4075105_2016.pdf,I1,Competent Person named,1,0,none disclosed,1
+1,4075105,2016,4075105_2016.pdf,I2,Professional registration and body disclosed,1,0,none disclosed,1
+1,4075105,2016,4075105_2016.pdf,I3,Independence of the Competent Person,2,0,none disclosed,1
+1,4075105,2016,4075105_2016.pdf,I4,Relevant experience of the CP,1,0,none disclosed,1
+1,4075105,2016,4075105_2016.pdf,I5,Written consent or sign-off statement,1,0,not stated,1
+1,4075105,2016,4075105_2016.pdf,I6,Compliance code named,2,1,stated,1
+1,4075105,2016,4075105_2016.pdf,I7,Mining method disclosed,2,0,not stated,1
+1,4075105,2016,4075105_2016.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4075105,2016,4075105_2016.pdf,I9,Cut-off grade,2,2,stated,1
+1,4075105,2016,4075105_2016.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4075105,2016,4075105_2016.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4075105,2016,4075105_2016.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4075105,2016,4075105_2016.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4075105,2016,4075105_2016.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4075105,2016,4075105_2016.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4075105,2016,4075105_2016.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4075105,2016,4075105_2016.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,documented,1
+1,4075105,2016,4075105_2016.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4075105,2016,4075105_2016.pdf,I19,Attribution of the change,2,2,stated,1
+1,4075105,2016,4075105_2016.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4075105,2016,4075105_2016.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,explicitly stated,1
+1,4075105,2016,4075105_2016.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4075105,2016,4075105_2016.pdf,I23,Explanation of a material downward restatement,2,0,,1
+1,4075105,2016,4075105_2016.pdf,I24,Competent Person site visit,1,0,,1
+1,4120225,2015,4120225_2015.pdf,I1,Competent Person named,1,0,not named,1
+1,4120225,2015,4120225_2015.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4120225,2015,4120225_2015.pdf,I3,Independence of the Competent Person,2,0,not stated,1
+1,4120225,2015,4120225_2015.pdf,I4,Relevant experience of the CP,1,0,not stated,1
+1,4120225,2015,4120225_2015.pdf,I5,Written consent or sign-off statement,1,0,not stated,1
+1,4120225,2015,4120225_2015.pdf,I6,Compliance code named,2,2,"yes, stated",1
+1,4120225,2015,4120225_2015.pdf,I7,Mining method disclosed,2,2,disclosed for each asset,1
+1,4120225,2015,4120225_2015.pdf,I8,Metallurgical recovery factor,2,2,"yes, stated",1
+1,4120225,2015,4120225_2015.pdf,I9,Cut-off grade,2,1,"numeric, group level",1
+1,4120225,2015,4120225_2015.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+1,4120225,2015,4120225_2015.pdf,I11,Dilution and mine call factor,1,1,indicated,1
+1,4120225,2015,4120225_2015.pdf,I12,Non-technical modifying factors,2,2,discused,1
+1,4120225,2015,4120225_2015.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4120225,2015,4120225_2015.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4120225,2015,4120225_2015.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4120225,2015,4120225_2015.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4120225,2015,4120225_2015.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4120225,2015,4120225_2015.pdf,I18,Year-on-year reserve reconciliation,2,2,tables shown,1
+1,4120225,2015,4120225_2015.pdf,I19,Attribution of the change,2,2,explicitly stated,1
+1,4120225,2015,4120225_2015.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4120225,2015,4120225_2015.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,not extensively explained,1
+1,4120225,2015,4120225_2015.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4120225,2015,4120225_2015.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4120225,2015,4120225_2015.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4120225,2020,4120225_2020.pdf,I1,Competent Person named,1,0,not stated,1
+1,4120225,2020,4120225_2020.pdf,I2,Professional registration and body disclosed,1,0,not named,1
+1,4120225,2020,4120225_2020.pdf,I3,Independence of the Competent Person,2,0,not stated,1
+1,4120225,2020,4120225_2020.pdf,I4,Relevant experience of the CP,1,0,not stated,1
+1,4120225,2020,4120225_2020.pdf,I5,Written consent or sign-off statement,1,0,not stated,1
+1,4120225,2020,4120225_2020.pdf,I6,Compliance code named,2,0,not stated,1
+1,4120225,2020,4120225_2020.pdf,I7,Mining method disclosed,2,2,"yes, stated",1
+1,4120225,2020,4120225_2020.pdf,I8,Metallurgical recovery factor,2,2,disclosed for each asset,1
+1,4120225,2020,4120225_2020.pdf,I9,Cut-off grade,2,2,"yes, stated",1
+1,4120225,2020,4120225_2020.pdf,I10,Basis of the cut-off grade,2,1,"numeric, group level",1
+1,4120225,2020,4120225_2020.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4120225,2020,4120225_2020.pdf,I12,Non-technical modifying factors,2,1,indicated,1
+1,4120225,2020,4120225_2020.pdf,I13,Commodity price assumption,2,2,discused,1
+1,4120225,2020,4120225_2020.pdf,I14,Basis of the price assumption,1,2,stated,1
+1,4120225,2020,4120225_2020.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4120225,2020,4120225_2020.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4120225,2020,4120225_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4120225,2020,4120225_2020.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4120225,2020,4120225_2020.pdf,I19,Attribution of the change,2,2,tables shown,1
+1,4120225,2020,4120225_2020.pdf,I20,Resources stated inclusive or exclusive of reserves,1,2,explicitly stated,1
+1,4120225,2020,4120225_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4120225,2020,4120225_2020.pdf,I22,Independent external review of the estimate,2,1,not extensively explained,1
+1,4120225,2020,4120225_2020.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4120225,2020,4120225_2020.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4120225,2023,4120225_2023.pdf,I1,Competent Person named,1,0,not stated,1
+1,4120225,2023,4120225_2023.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4120225,2023,4120225_2023.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4120225,2023,4120225_2023.pdf,I4,Relevant experience of the CP,1,0,not stated,1
+1,4120225,2023,4120225_2023.pdf,I5,Written consent or sign-off statement,1,0,no,1
+1,4120225,2023,4120225_2023.pdf,I6,Compliance code named,2,2,stated,1
+1,4120225,2023,4120225_2023.pdf,I7,Mining method disclosed,2,2,disclosed,1
+1,4120225,2023,4120225_2023.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4120225,2023,4120225_2023.pdf,I9,Cut-off grade,2,2,stated,1
+1,4120225,2023,4120225_2023.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4120225,2023,4120225_2023.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4120225,2023,4120225_2023.pdf,I12,Non-technical modifying factors,2,2,discussed,1
+1,4120225,2023,4120225_2023.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4120225,2023,4120225_2023.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4120225,2023,4120225_2023.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4120225,2023,4120225_2023.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4120225,2023,4120225_2023.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4120225,2023,4120225_2023.pdf,I18,Year-on-year reserve reconciliation,2,1,not detailed,1
+1,4120225,2023,4120225_2023.pdf,I19,Attribution of the change,2,1,stated,1
+1,4120225,2023,4120225_2023.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4120225,2023,4120225_2023.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,discussed,1
+1,4120225,2023,4120225_2023.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4120225,2023,4120225_2023.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4120225,2023,4120225_2023.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4144674,2023,4144674_2023.pdf,I1,Competent Person named,1,1,stated,1
+1,4144674,2023,4144674_2023.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4144674,2023,4144674_2023.pdf,I3,Independence of the Competent Person,2,1,employees,1
+1,4144674,2023,4144674_2023.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4144674,2023,4144674_2023.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4144674,2023,4144674_2023.pdf,I6,Compliance code named,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I9,Cut-off grade,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4144674,2023,4144674_2023.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4144674,2023,4144674_2023.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I16,Exchange rate and discount rate,2,2,both indicated,1
+1,4144674,2023,4144674_2023.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,not detailed,1
+1,4144674,2023,4144674_2023.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I19,Attribution of the change,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4144674,2023,4144674_2023.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+1,4144674,2023,4144674_2023.pdf,I22,Independent external review of the estimate,2,1,internal peer review,1
+1,4144674,2023,4144674_2023.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4144674,2023,4144674_2023.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4188197,2012,4188197_2012.pdf,I1,Competent Person named,1,1,stated,1
+1,4188197,2012,4188197_2012.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4188197,2012,4188197_2012.pdf,I3,Independence of the Competent Person,2,2,External consultants indicated,1
+1,4188197,2012,4188197_2012.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4188197,2012,4188197_2012.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4188197,2012,4188197_2012.pdf,I6,Compliance code named,2,2,stated,1
+1,4188197,2012,4188197_2012.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4188197,2012,4188197_2012.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4188197,2012,4188197_2012.pdf,I9,Cut-off grade,2,2,stated,1
+1,4188197,2012,4188197_2012.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4188197,2012,4188197_2012.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4188197,2012,4188197_2012.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4188197,2012,4188197_2012.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4188197,2012,4188197_2012.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4188197,2012,4188197_2012.pdf,I15,Operating cost assumption,2,1,group level disclosure,1
+1,4188197,2012,4188197_2012.pdf,I16,Exchange rate and discount rate,2,0,not stated,1
+1,4188197,2012,4188197_2012.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+1,4188197,2012,4188197_2012.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4188197,2012,4188197_2012.pdf,I19,Attribution of the change,2,2,stated,1
+1,4188197,2012,4188197_2012.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4188197,2012,4188197_2012.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4188197,2012,4188197_2012.pdf,I22,Independent external review of the estimate,2,1,External consultants indicated,1
+1,4188197,2012,4188197_2012.pdf,I23,Explanation of a material downward restatement,2,0,not indicated,1
+1,4188197,2012,4188197_2012.pdf,I24,Competent Person site visit,1,0,not indicated,1
+1,4188197,2018,4188197_2018.pdf,I1,Competent Person named,1,1,stated,1
+1,4188197,2018,4188197_2018.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4188197,2018,4188197_2018.pdf,I3,Independence of the Competent Person,2,1,employees,1
+1,4188197,2018,4188197_2018.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4188197,2018,4188197_2018.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4188197,2018,4188197_2018.pdf,I6,Compliance code named,2,2,stated,1
+1,4188197,2018,4188197_2018.pdf,I7,Mining method disclosed,2,2,disclosed,1
+1,4188197,2018,4188197_2018.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4188197,2018,4188197_2018.pdf,I9,Cut-off grade,2,2,stated,1
+1,4188197,2018,4188197_2018.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4188197,2018,4188197_2018.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4188197,2018,4188197_2018.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4188197,2018,4188197_2018.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4188197,2018,4188197_2018.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4188197,2018,4188197_2018.pdf,I15,Operating cost assumption,2,1,partially explained,1
+1,4188197,2018,4188197_2018.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4188197,2018,4188197_2018.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+1,4188197,2018,4188197_2018.pdf,I18,Year-on-year reserve reconciliation,2,1,not explicit,1
+1,4188197,2018,4188197_2018.pdf,I19,Attribution of the change,2,2,stated,1
+1,4188197,2018,4188197_2018.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4188197,2018,4188197_2018.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+1,4188197,2018,4188197_2018.pdf,I22,Independent external review of the estimate,2,1,internal peer review,1
+1,4188197,2018,4188197_2018.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4188197,2018,4188197_2018.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4264043,2017,4264043_2017.pdf,I1,Competent Person named,1,1,stated,1
+1,4264043,2017,4264043_2017.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4264043,2017,4264043_2017.pdf,I3,Independence of the Competent Person,2,2,employees & external consultants ,1
+1,4264043,2017,4264043_2017.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4264043,2017,4264043_2017.pdf,I5,Written consent or sign-off statement,1,1,written confirmation,1
+1,4264043,2017,4264043_2017.pdf,I6,Compliance code named,2,2,stated,1
+1,4264043,2017,4264043_2017.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4264043,2017,4264043_2017.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4264043,2017,4264043_2017.pdf,I9,Cut-off grade,2,2,stated,1
+1,4264043,2017,4264043_2017.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4264043,2017,4264043_2017.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4264043,2017,4264043_2017.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4264043,2017,4264043_2017.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4264043,2017,4264043_2017.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4264043,2017,4264043_2017.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4264043,2017,4264043_2017.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4264043,2017,4264043_2017.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4264043,2017,4264043_2017.pdf,I18,Year-on-year reserve reconciliation,2,1,stated partially,1
+1,4264043,2017,4264043_2017.pdf,I19,Attribution of the change,2,1,partially explained,1
+1,4264043,2017,4264043_2017.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4264043,2017,4264043_2017.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4264043,2017,4264043_2017.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4264043,2017,4264043_2017.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4264043,2017,4264043_2017.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4264043,2020,4264043_2020.pdf,I1,Competent Person named,1,1,stated,1
+1,4264043,2020,4264043_2020.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4264043,2020,4264043_2020.pdf,I3,Independence of the Competent Person,2,2,employees & external consultants ,1
+1,4264043,2020,4264043_2020.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4264043,2020,4264043_2020.pdf,I5,Written consent or sign-off statement,1,1,written confirmation,1
+1,4264043,2020,4264043_2020.pdf,I6,Compliance code named,2,2,stated,1
+1,4264043,2020,4264043_2020.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4264043,2020,4264043_2020.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4264043,2020,4264043_2020.pdf,I9,Cut-off grade,2,2,stated,1
+1,4264043,2020,4264043_2020.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4264043,2020,4264043_2020.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4264043,2020,4264043_2020.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4264043,2020,4264043_2020.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4264043,2020,4264043_2020.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4264043,2020,4264043_2020.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4264043,2020,4264043_2020.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4264043,2020,4264043_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4264043,2020,4264043_2020.pdf,I18,Year-on-year reserve reconciliation,2,1,stated partially,1
+1,4264043,2020,4264043_2020.pdf,I19,Attribution of the change,2,1,partially explained,1
+1,4264043,2020,4264043_2020.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4264043,2020,4264043_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4264043,2020,4264043_2020.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4264043,2020,4264043_2020.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4264043,2020,4264043_2020.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4347817,2021,4347817_2021.pdf,I1,Competent Person named,1,1,stated,1
+1,4347817,2021,4347817_2021.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4347817,2021,4347817_2021.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4347817,2021,4347817_2021.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4347817,2021,4347817_2021.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4347817,2021,4347817_2021.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4347817,2021,4347817_2021.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4347817,2021,4347817_2021.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4347817,2021,4347817_2021.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4347817,2021,4347817_2021.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4347817,2021,4347817_2021.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4347817,2021,4347817_2021.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4347817,2021,4347817_2021.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4347817,2021,4347817_2021.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4347817,2021,4347817_2021.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4347817,2021,4347817_2021.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4347817,2021,4347817_2021.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4347817,2021,4347817_2021.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4347817,2021,4347817_2021.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4347817,2021,4347817_2021.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4347817,2021,4347817_2021.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4347817,2021,4347817_2021.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4347817,2021,4347817_2021.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4347817,2021,4347817_2021.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,4347817,2025,4347817_2025.pdf,I1,Competent Person named,1,1,stated,1
+1,4347817,2025,4347817_2025.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4347817,2025,4347817_2025.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4347817,2025,4347817_2025.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4347817,2025,4347817_2025.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4347817,2025,4347817_2025.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4347817,2025,4347817_2025.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4347817,2025,4347817_2025.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4347817,2025,4347817_2025.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4347817,2025,4347817_2025.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4347817,2025,4347817_2025.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4347817,2025,4347817_2025.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4347817,2025,4347817_2025.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4347817,2025,4347817_2025.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4347817,2025,4347817_2025.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4347817,2025,4347817_2025.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4347817,2025,4347817_2025.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4347817,2025,4347817_2025.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4347817,2025,4347817_2025.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4347817,2025,4347817_2025.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4347817,2025,4347817_2025.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4347817,2025,4347817_2025.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4347817,2025,4347817_2025.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4347817,2025,4347817_2025.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,4348292,2017,4348292_2017.pdf,I1,Competent Person named,1,1,stated,1
+1,4348292,2017,4348292_2017.pdf,I2,Professional registration and body disclosed,1,1,yes,1
+1,4348292,2017,4348292_2017.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4348292,2017,4348292_2017.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4348292,2017,4348292_2017.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4348292,2017,4348292_2017.pdf,I6,Compliance code named,2,2,yes,1
+1,4348292,2017,4348292_2017.pdf,I7,Mining method disclosed,2,2,yes,1
+1,4348292,2017,4348292_2017.pdf,I8,Metallurgical recovery factor,2,2,indicated,1
+1,4348292,2017,4348292_2017.pdf,I9,Cut-off grade,2,2,indicated,1
+1,4348292,2017,4348292_2017.pdf,I10,Basis of the cut-off grade,2,1,not comprehensive,1
+1,4348292,2017,4348292_2017.pdf,I11,Dilution and mine call factor,1,1,indicated,1
+1,4348292,2017,4348292_2017.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4348292,2017,4348292_2017.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4348292,2017,4348292_2017.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4348292,2017,4348292_2017.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4348292,2017,4348292_2017.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4348292,2017,4348292_2017.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4348292,2017,4348292_2017.pdf,I18,Year-on-year reserve reconciliation,2,1,stated,1
+1,4348292,2017,4348292_2017.pdf,I19,Attribution of the change,2,2,stated,1
+1,4348292,2017,4348292_2017.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4348292,2017,4348292_2017.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+1,4348292,2017,4348292_2017.pdf,I22,Independent external review of the estimate,2,0,NO,1
+1,4348292,2017,4348292_2017.pdf,I23,Explanation of a material downward restatement,2,0,NO,1
+1,4348292,2017,4348292_2017.pdf,I24,Competent Person site visit,1,0,NO,1
+1,4349189,2017,4349189_2017.pdf,I1,Competent Person named,1,1,stated,1
+1,4349189,2017,4349189_2017.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4349189,2017,4349189_2017.pdf,I3,Independence of the Competent Person,2,2,employees & external consultants ,1
+1,4349189,2017,4349189_2017.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4349189,2017,4349189_2017.pdf,I5,Written consent or sign-off statement,1,1,written confirmation,1
+1,4349189,2017,4349189_2017.pdf,I6,Compliance code named,2,2,stated,1
+1,4349189,2017,4349189_2017.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4349189,2017,4349189_2017.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4349189,2017,4349189_2017.pdf,I9,Cut-off grade,2,2,stated,1
+1,4349189,2017,4349189_2017.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4349189,2017,4349189_2017.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4349189,2017,4349189_2017.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4349189,2017,4349189_2017.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4349189,2017,4349189_2017.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4349189,2017,4349189_2017.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4349189,2017,4349189_2017.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4349189,2017,4349189_2017.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4349189,2017,4349189_2017.pdf,I18,Year-on-year reserve reconciliation,2,1,stated partially,1
+1,4349189,2017,4349189_2017.pdf,I19,Attribution of the change,2,1,partially explained,1
+1,4349189,2017,4349189_2017.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4349189,2017,4349189_2017.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4349189,2017,4349189_2017.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4349189,2017,4349189_2017.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4349189,2017,4349189_2017.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4350215,2014,4350215_2014.pdf,I1,Competent Person named,1,1,stated,1
+1,4350215,2014,4350215_2014.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4350215,2014,4350215_2014.pdf,I3,Independence of the Competent Person,2,2,employees & external consultants ,1
+1,4350215,2014,4350215_2014.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4350215,2014,4350215_2014.pdf,I5,Written consent or sign-off statement,1,1,written confirmation,1
+1,4350215,2014,4350215_2014.pdf,I6,Compliance code named,2,2,stated,1
+1,4350215,2014,4350215_2014.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4350215,2014,4350215_2014.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4350215,2014,4350215_2014.pdf,I9,Cut-off grade,2,2,stated,1
+1,4350215,2014,4350215_2014.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4350215,2014,4350215_2014.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4350215,2014,4350215_2014.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4350215,2014,4350215_2014.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4350215,2014,4350215_2014.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4350215,2014,4350215_2014.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4350215,2014,4350215_2014.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4350215,2014,4350215_2014.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4350215,2014,4350215_2014.pdf,I18,Year-on-year reserve reconciliation,2,1,stated partially,1
+1,4350215,2014,4350215_2014.pdf,I19,Attribution of the change,2,1,partially explained,1
+1,4350215,2014,4350215_2014.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4350215,2014,4350215_2014.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4350215,2014,4350215_2014.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4350215,2014,4350215_2014.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4350215,2014,4350215_2014.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4350215,2021,4350215_2021.pdf,I1,Competent Person named,1,1,stated,1
+1,4350215,2021,4350215_2021.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4350215,2021,4350215_2021.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4350215,2021,4350215_2021.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4350215,2021,4350215_2021.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4350215,2021,4350215_2021.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4350215,2021,4350215_2021.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4350215,2021,4350215_2021.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4350215,2021,4350215_2021.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4350215,2021,4350215_2021.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4350215,2021,4350215_2021.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4350215,2021,4350215_2021.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4350215,2021,4350215_2021.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4350215,2021,4350215_2021.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4350215,2021,4350215_2021.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4350215,2021,4350215_2021.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4350215,2021,4350215_2021.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4350215,2021,4350215_2021.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4350215,2021,4350215_2021.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4350215,2021,4350215_2021.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4350215,2021,4350215_2021.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4350215,2021,4350215_2021.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4350215,2021,4350215_2021.pdf,I23,Explanation of a material downward restatement,2,NA,NO,1
+1,4350215,2021,4350215_2021.pdf,I24,Competent Person site visit,1,0,,1
+1,4350215,2023,4350215_2023.pdf,I1,Competent Person named,1,1,stated,1
+1,4350215,2023,4350215_2023.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4350215,2023,4350215_2023.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4350215,2023,4350215_2023.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4350215,2023,4350215_2023.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4350215,2023,4350215_2023.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4350215,2023,4350215_2023.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4350215,2023,4350215_2023.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4350215,2023,4350215_2023.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4350215,2023,4350215_2023.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4350215,2023,4350215_2023.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4350215,2023,4350215_2023.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4350215,2023,4350215_2023.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4350215,2023,4350215_2023.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4350215,2023,4350215_2023.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4350215,2023,4350215_2023.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4350215,2023,4350215_2023.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4350215,2023,4350215_2023.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4350215,2023,4350215_2023.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4350215,2023,4350215_2023.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4350215,2023,4350215_2023.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4350215,2023,4350215_2023.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4350215,2023,4350215_2023.pdf,I23,Explanation of a material downward restatement,2,NA,NO,1
+1,4350215,2023,4350215_2023.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,4350323,2013,4350323_2013.pdf,I1,Competent Person named,1,0,none disclosed,1
+1,4350323,2013,4350323_2013.pdf,I2,Professional registration and body disclosed,1,0,none disclosed,1
+1,4350323,2013,4350323_2013.pdf,I3,Independence of the Competent Person,2,0,none disclosed,1
+1,4350323,2013,4350323_2013.pdf,I4,Relevant experience of the CP,1,0,none disclosed,1
+1,4350323,2013,4350323_2013.pdf,I5,Written consent or sign-off statement,1,0,not stated,1
+1,4350323,2013,4350323_2013.pdf,I6,Compliance code named,2,1,yes,1
+1,4350323,2013,4350323_2013.pdf,I7,Mining method disclosed,2,0,not stated,1
+1,4350323,2013,4350323_2013.pdf,I8,Metallurgical recovery factor,2,0,not stated,1
+1,4350323,2013,4350323_2013.pdf,I9,Cut-off grade,2,0,not stated,1
+1,4350323,2013,4350323_2013.pdf,I10,Basis of the cut-off grade,2,0,not stated,1
+1,4350323,2013,4350323_2013.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4350323,2013,4350323_2013.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4350323,2013,4350323_2013.pdf,I13,Commodity price assumption,2,2,,1
+1,4350323,2013,4350323_2013.pdf,I14,Basis of the price assumption,1,1,,1
+1,4350323,2013,4350323_2013.pdf,I15,Operating cost assumption,2,2,,1
+1,4350323,2013,4350323_2013.pdf,I16,Exchange rate and discount rate,2,2,,1
+1,4350323,2013,4350323_2013.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,on taxes mentioned,1
+1,4350323,2013,4350323_2013.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4350323,2013,4350323_2013.pdf,I19,Attribution of the change,2,2,stated,1
+1,4350323,2013,4350323_2013.pdf,I20,Resources stated inclusive or exclusive of reserves,1,0,only resources,1
+1,4350323,2013,4350323_2013.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,no,1
+1,4350323,2013,4350323_2013.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4350323,2013,4350323_2013.pdf,I23,Explanation of a material downward restatement,2,0,,1
+1,4350323,2013,4350323_2013.pdf,I24,Competent Person site visit,1,0,,1
+1,4350323,2017,4350323_2017.pdf,I1,Competent Person named,1,0,not named,1
+1,4350323,2017,4350323_2017.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4350323,2017,4350323_2017.pdf,I3,Independence of the Competent Person,2,0,not stated,1
+1,4350323,2017,4350323_2017.pdf,I4,Relevant experience of the CP,1,0,not stated,1
+1,4350323,2017,4350323_2017.pdf,I5,Written consent or sign-off statement,1,0,not stated,1
+1,4350323,2017,4350323_2017.pdf,I6,Compliance code named,2,2,"yes, stated",1
+1,4350323,2017,4350323_2017.pdf,I7,Mining method disclosed,2,2,disclosed for each asset,1
+1,4350323,2017,4350323_2017.pdf,I8,Metallurgical recovery factor,2,2,"yes, stated",1
+1,4350323,2017,4350323_2017.pdf,I9,Cut-off grade,2,1,"numeric, group level",1
+1,4350323,2017,4350323_2017.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+1,4350323,2017,4350323_2017.pdf,I11,Dilution and mine call factor,1,1,indicated,1
+1,4350323,2017,4350323_2017.pdf,I12,Non-technical modifying factors,2,2,discused,1
+1,4350323,2017,4350323_2017.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4350323,2017,4350323_2017.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4350323,2017,4350323_2017.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4350323,2017,4350323_2017.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4350323,2017,4350323_2017.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4350323,2017,4350323_2017.pdf,I18,Year-on-year reserve reconciliation,2,2,tables shown,1
+1,4350323,2017,4350323_2017.pdf,I19,Attribution of the change,2,2,explicitly stated,1
+1,4350323,2017,4350323_2017.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4350323,2017,4350323_2017.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,not extensively explained,1
+1,4350323,2017,4350323_2017.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4350323,2017,4350323_2017.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4350323,2017,4350323_2017.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4351190,2025,4351190_2025.pdf,I1,Competent Person named,1,0,not stated,1
+1,4351190,2025,4351190_2025.pdf,I2,Professional registration and body disclosed,1,0,not named,1
+1,4351190,2025,4351190_2025.pdf,I3,Independence of the Competent Person,2,0,not stated,1
+1,4351190,2025,4351190_2025.pdf,I4,Relevant experience of the CP,1,0,not stated,1
+1,4351190,2025,4351190_2025.pdf,I5,Written consent or sign-off statement,1,0,not stated,1
+1,4351190,2025,4351190_2025.pdf,I6,Compliance code named,2,0,not stated,1
+1,4351190,2025,4351190_2025.pdf,I7,Mining method disclosed,2,2,"yes, stated",1
+1,4351190,2025,4351190_2025.pdf,I8,Metallurgical recovery factor,2,2,disclosed for each asset,1
+1,4351190,2025,4351190_2025.pdf,I9,Cut-off grade,2,2,"yes, stated",1
+1,4351190,2025,4351190_2025.pdf,I10,Basis of the cut-off grade,2,1,"numeric, group level",1
+1,4351190,2025,4351190_2025.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4351190,2025,4351190_2025.pdf,I12,Non-technical modifying factors,2,1,indicated,1
+1,4351190,2025,4351190_2025.pdf,I13,Commodity price assumption,2,2,discused,1
+1,4351190,2025,4351190_2025.pdf,I14,Basis of the price assumption,1,2,stated,1
+1,4351190,2025,4351190_2025.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4351190,2025,4351190_2025.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4351190,2025,4351190_2025.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4351190,2025,4351190_2025.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4351190,2025,4351190_2025.pdf,I19,Attribution of the change,2,2,tables shown,1
+1,4351190,2025,4351190_2025.pdf,I20,Resources stated inclusive or exclusive of reserves,1,2,explicitly stated,1
+1,4351190,2025,4351190_2025.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4351190,2025,4351190_2025.pdf,I22,Independent external review of the estimate,2,1,not extensively explained,1
+1,4351190,2025,4351190_2025.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4351190,2025,4351190_2025.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4351368,2019,4351368_2019.pdf,I1,Competent Person named,1,0,not stated,1
+1,4351368,2019,4351368_2019.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4351368,2019,4351368_2019.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4351368,2019,4351368_2019.pdf,I4,Relevant experience of the CP,1,0,not stated,1
+1,4351368,2019,4351368_2019.pdf,I5,Written consent or sign-off statement,1,0,no,1
+1,4351368,2019,4351368_2019.pdf,I6,Compliance code named,2,2,stated,1
+1,4351368,2019,4351368_2019.pdf,I7,Mining method disclosed,2,2,disclosed,1
+1,4351368,2019,4351368_2019.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4351368,2019,4351368_2019.pdf,I9,Cut-off grade,2,2,stated,1
+1,4351368,2019,4351368_2019.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4351368,2019,4351368_2019.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4351368,2019,4351368_2019.pdf,I12,Non-technical modifying factors,2,2,discussed,1
+1,4351368,2019,4351368_2019.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4351368,2019,4351368_2019.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4351368,2019,4351368_2019.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4351368,2019,4351368_2019.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4351368,2019,4351368_2019.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4351368,2019,4351368_2019.pdf,I18,Year-on-year reserve reconciliation,2,1,not detailed,1
+1,4351368,2019,4351368_2019.pdf,I19,Attribution of the change,2,1,stated,1
+1,4351368,2019,4351368_2019.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4351368,2019,4351368_2019.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,discussed,1
+1,4351368,2019,4351368_2019.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4351368,2019,4351368_2019.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4351368,2019,4351368_2019.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4351564,2015,4351564_2015.pdf,I1,Competent Person named,1,1,stated,1
+1,4351564,2015,4351564_2015.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4351564,2015,4351564_2015.pdf,I3,Independence of the Competent Person,2,1,employees,1
+1,4351564,2015,4351564_2015.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4351564,2015,4351564_2015.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4351564,2015,4351564_2015.pdf,I6,Compliance code named,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I9,Cut-off grade,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4351564,2015,4351564_2015.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4351564,2015,4351564_2015.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I16,Exchange rate and discount rate,2,2,both indicated,1
+1,4351564,2015,4351564_2015.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,not detailed,1
+1,4351564,2015,4351564_2015.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I19,Attribution of the change,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4351564,2015,4351564_2015.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+1,4351564,2015,4351564_2015.pdf,I22,Independent external review of the estimate,2,1,internal peer review,1
+1,4351564,2015,4351564_2015.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4351564,2015,4351564_2015.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4351564,2025,4351564_2025.pdf,I1,Competent Person named,1,1,stated,1
+1,4351564,2025,4351564_2025.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4351564,2025,4351564_2025.pdf,I3,Independence of the Competent Person,2,2,External consultants indicated,1
+1,4351564,2025,4351564_2025.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4351564,2025,4351564_2025.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4351564,2025,4351564_2025.pdf,I6,Compliance code named,2,2,stated,1
+1,4351564,2025,4351564_2025.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4351564,2025,4351564_2025.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4351564,2025,4351564_2025.pdf,I9,Cut-off grade,2,2,stated,1
+1,4351564,2025,4351564_2025.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4351564,2025,4351564_2025.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4351564,2025,4351564_2025.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4351564,2025,4351564_2025.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4351564,2025,4351564_2025.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4351564,2025,4351564_2025.pdf,I15,Operating cost assumption,2,1,group level disclosure,1
+1,4351564,2025,4351564_2025.pdf,I16,Exchange rate and discount rate,2,0,not stated,1
+1,4351564,2025,4351564_2025.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+1,4351564,2025,4351564_2025.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4351564,2025,4351564_2025.pdf,I19,Attribution of the change,2,2,stated,1
+1,4351564,2025,4351564_2025.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4351564,2025,4351564_2025.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4351564,2025,4351564_2025.pdf,I22,Independent external review of the estimate,2,1,External consultants indicated,1
+1,4351564,2025,4351564_2025.pdf,I23,Explanation of a material downward restatement,2,0,not indicated,1
+1,4351564,2025,4351564_2025.pdf,I24,Competent Person site visit,1,0,not indicated,1
+1,4351694,2020,4351694_2020.pdf,I1,Competent Person named,1,1,stated,1
+1,4351694,2020,4351694_2020.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4351694,2020,4351694_2020.pdf,I3,Independence of the Competent Person,2,1,employees,1
+1,4351694,2020,4351694_2020.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4351694,2020,4351694_2020.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4351694,2020,4351694_2020.pdf,I6,Compliance code named,2,2,stated,1
+1,4351694,2020,4351694_2020.pdf,I7,Mining method disclosed,2,2,disclosed,1
+1,4351694,2020,4351694_2020.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4351694,2020,4351694_2020.pdf,I9,Cut-off grade,2,2,stated,1
+1,4351694,2020,4351694_2020.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4351694,2020,4351694_2020.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4351694,2020,4351694_2020.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4351694,2020,4351694_2020.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4351694,2020,4351694_2020.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4351694,2020,4351694_2020.pdf,I15,Operating cost assumption,2,1,partially explained,1
+1,4351694,2020,4351694_2020.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4351694,2020,4351694_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+1,4351694,2020,4351694_2020.pdf,I18,Year-on-year reserve reconciliation,2,1,not explicit,1
+1,4351694,2020,4351694_2020.pdf,I19,Attribution of the change,2,2,stated,1
+1,4351694,2020,4351694_2020.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4351694,2020,4351694_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+1,4351694,2020,4351694_2020.pdf,I22,Independent external review of the estimate,2,1,internal peer review,1
+1,4351694,2020,4351694_2020.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4351694,2020,4351694_2020.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4353093,2020,4353093_2020.pdf,I1,Competent Person named,1,1,stated,1
+1,4353093,2020,4353093_2020.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4353093,2020,4353093_2020.pdf,I3,Independence of the Competent Person,2,2,employees & external consultants ,1
+1,4353093,2020,4353093_2020.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4353093,2020,4353093_2020.pdf,I5,Written consent or sign-off statement,1,1,written confirmation,1
+1,4353093,2020,4353093_2020.pdf,I6,Compliance code named,2,2,stated,1
+1,4353093,2020,4353093_2020.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4353093,2020,4353093_2020.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4353093,2020,4353093_2020.pdf,I9,Cut-off grade,2,2,stated,1
+1,4353093,2020,4353093_2020.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4353093,2020,4353093_2020.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4353093,2020,4353093_2020.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4353093,2020,4353093_2020.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4353093,2020,4353093_2020.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4353093,2020,4353093_2020.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4353093,2020,4353093_2020.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4353093,2020,4353093_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4353093,2020,4353093_2020.pdf,I18,Year-on-year reserve reconciliation,2,1,stated partially,1
+1,4353093,2020,4353093_2020.pdf,I19,Attribution of the change,2,1,partially explained,1
+1,4353093,2020,4353093_2020.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4353093,2020,4353093_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4353093,2020,4353093_2020.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4353093,2020,4353093_2020.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4353093,2020,4353093_2020.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4353093,2023,4353093_2023.pdf,I1,Competent Person named,1,1,stated,1
+1,4353093,2023,4353093_2023.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4353093,2023,4353093_2023.pdf,I3,Independence of the Competent Person,2,2,employees & external consultants ,1
+1,4353093,2023,4353093_2023.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4353093,2023,4353093_2023.pdf,I5,Written consent or sign-off statement,1,1,written confirmation,1
+1,4353093,2023,4353093_2023.pdf,I6,Compliance code named,2,2,stated,1
+1,4353093,2023,4353093_2023.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4353093,2023,4353093_2023.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4353093,2023,4353093_2023.pdf,I9,Cut-off grade,2,2,stated,1
+1,4353093,2023,4353093_2023.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4353093,2023,4353093_2023.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4353093,2023,4353093_2023.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4353093,2023,4353093_2023.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4353093,2023,4353093_2023.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4353093,2023,4353093_2023.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4353093,2023,4353093_2023.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4353093,2023,4353093_2023.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4353093,2023,4353093_2023.pdf,I18,Year-on-year reserve reconciliation,2,1,stated partially,1
+1,4353093,2023,4353093_2023.pdf,I19,Attribution of the change,2,1,partially explained,1
+1,4353093,2023,4353093_2023.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4353093,2023,4353093_2023.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4353093,2023,4353093_2023.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4353093,2023,4353093_2023.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4353093,2023,4353093_2023.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4353124,2012,4353124_2012.pdf,I1,Competent Person named,1,1,stated,1
+1,4353124,2012,4353124_2012.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4353124,2012,4353124_2012.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4353124,2012,4353124_2012.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4353124,2012,4353124_2012.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4353124,2012,4353124_2012.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4353124,2012,4353124_2012.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4353124,2012,4353124_2012.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4353124,2012,4353124_2012.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4353124,2012,4353124_2012.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4353124,2012,4353124_2012.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4353124,2012,4353124_2012.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4353124,2012,4353124_2012.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4353124,2012,4353124_2012.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4353124,2012,4353124_2012.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4353124,2012,4353124_2012.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4353124,2012,4353124_2012.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4353124,2012,4353124_2012.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4353124,2012,4353124_2012.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4353124,2012,4353124_2012.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4353124,2012,4353124_2012.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4353124,2012,4353124_2012.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4353124,2012,4353124_2012.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4353124,2012,4353124_2012.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,4353200,2015,4353200_2015.pdf,I1,Competent Person named,1,1,stated,1
+1,4353200,2015,4353200_2015.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4353200,2015,4353200_2015.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4353200,2015,4353200_2015.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4353200,2015,4353200_2015.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4353200,2015,4353200_2015.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4353200,2015,4353200_2015.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4353200,2015,4353200_2015.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4353200,2015,4353200_2015.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4353200,2015,4353200_2015.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4353200,2015,4353200_2015.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4353200,2015,4353200_2015.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4353200,2015,4353200_2015.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4353200,2015,4353200_2015.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4353200,2015,4353200_2015.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4353200,2015,4353200_2015.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4353200,2015,4353200_2015.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4353200,2015,4353200_2015.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4353200,2015,4353200_2015.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4353200,2015,4353200_2015.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4353200,2015,4353200_2015.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4353200,2015,4353200_2015.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4353200,2015,4353200_2015.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4353200,2015,4353200_2015.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,4354685,2016,4354685_2016.pdf,I1,Competent Person named,1,1,"on reserves release, not annual report.",1
+1,4354685,2016,4354685_2016.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4354685,2016,4354685_2016.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4354685,2016,4354685_2016.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4354685,2016,4354685_2016.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4354685,2016,4354685_2016.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4354685,2016,4354685_2016.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4354685,2016,4354685_2016.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4354685,2016,4354685_2016.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4354685,2016,4354685_2016.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4354685,2016,4354685_2016.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4354685,2016,4354685_2016.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4354685,2016,4354685_2016.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4354685,2016,4354685_2016.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4354685,2016,4354685_2016.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4354685,2016,4354685_2016.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4354685,2016,4354685_2016.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4354685,2016,4354685_2016.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4354685,2016,4354685_2016.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4354685,2016,4354685_2016.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4354685,2016,4354685_2016.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4354685,2016,4354685_2016.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4354685,2016,4354685_2016.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4354685,2016,4354685_2016.pdf,I24,Competent Person site visit,1,0,,1
+1,4354685,2018,4354685_2018.pdf,I1,Competent Person named,1,1,stated,1
+1,4354685,2018,4354685_2018.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4354685,2018,4354685_2018.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4354685,2018,4354685_2018.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4354685,2018,4354685_2018.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4354685,2018,4354685_2018.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4354685,2018,4354685_2018.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4354685,2018,4354685_2018.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4354685,2018,4354685_2018.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4354685,2018,4354685_2018.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4354685,2018,4354685_2018.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4354685,2018,4354685_2018.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4354685,2018,4354685_2018.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4354685,2018,4354685_2018.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4354685,2018,4354685_2018.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4354685,2018,4354685_2018.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4354685,2018,4354685_2018.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4354685,2018,4354685_2018.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4354685,2018,4354685_2018.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4354685,2018,4354685_2018.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4354685,2018,4354685_2018.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4354685,2018,4354685_2018.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4354685,2018,4354685_2018.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4354685,2018,4354685_2018.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,4355312,2012,4355312_2012.pdf,I1,Competent Person named,1,0,none disclosed,1
+1,4355312,2012,4355312_2012.pdf,I2,Professional registration and body disclosed,1,0,none disclosed,1
+1,4355312,2012,4355312_2012.pdf,I3,Independence of the Competent Person,2,0,none disclosed,1
+1,4355312,2012,4355312_2012.pdf,I4,Relevant experience of the CP,1,0,none disclosed,1
+1,4355312,2012,4355312_2012.pdf,I5,Written consent or sign-off statement,1,0,not stated,1
+1,4355312,2012,4355312_2012.pdf,I6,Compliance code named,2,1,,1
+1,4355312,2012,4355312_2012.pdf,I7,Mining method disclosed,2,0,not stated,1
+1,4355312,2012,4355312_2012.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4355312,2012,4355312_2012.pdf,I9,Cut-off grade,2,2,stated,1
+1,4355312,2012,4355312_2012.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4355312,2012,4355312_2012.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4355312,2012,4355312_2012.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4355312,2012,4355312_2012.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4355312,2012,4355312_2012.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4355312,2012,4355312_2012.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4355312,2012,4355312_2012.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4355312,2012,4355312_2012.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,documented,1
+1,4355312,2012,4355312_2012.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4355312,2012,4355312_2012.pdf,I19,Attribution of the change,2,2,stated,1
+1,4355312,2012,4355312_2012.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4355312,2012,4355312_2012.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,explicitly stated,1
+1,4355312,2012,4355312_2012.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4355312,2012,4355312_2012.pdf,I23,Explanation of a material downward restatement,2,0,,1
+1,4355312,2012,4355312_2012.pdf,I24,Competent Person site visit,1,0,,1
+1,4355312,2016,4355312_2016.pdf,I1,Competent Person named,1,0,not named,1
+1,4355312,2016,4355312_2016.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4355312,2016,4355312_2016.pdf,I3,Independence of the Competent Person,2,0,not stated,1
+1,4355312,2016,4355312_2016.pdf,I4,Relevant experience of the CP,1,0,not stated,1
+1,4355312,2016,4355312_2016.pdf,I5,Written consent or sign-off statement,1,0,not stated,1
+1,4355312,2016,4355312_2016.pdf,I6,Compliance code named,2,2,"yes, stated",1
+1,4355312,2016,4355312_2016.pdf,I7,Mining method disclosed,2,2,disclosed for each asset,1
+1,4355312,2016,4355312_2016.pdf,I8,Metallurgical recovery factor,2,2,"yes, stated",1
+1,4355312,2016,4355312_2016.pdf,I9,Cut-off grade,2,1,"numeric, group level",1
+1,4355312,2016,4355312_2016.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+1,4355312,2016,4355312_2016.pdf,I11,Dilution and mine call factor,1,1,indicated,1
+1,4355312,2016,4355312_2016.pdf,I12,Non-technical modifying factors,2,2,discused,1
+1,4355312,2016,4355312_2016.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4355312,2016,4355312_2016.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4355312,2016,4355312_2016.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4355312,2016,4355312_2016.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4355312,2016,4355312_2016.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4355312,2016,4355312_2016.pdf,I18,Year-on-year reserve reconciliation,2,2,tables shown,1
+1,4355312,2016,4355312_2016.pdf,I19,Attribution of the change,2,2,explicitly stated,1
+1,4355312,2016,4355312_2016.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4355312,2016,4355312_2016.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,not extensively explained,1
+1,4355312,2016,4355312_2016.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4355312,2016,4355312_2016.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4355312,2016,4355312_2016.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4355312,2025,4355312_2025.pdf,I1,Competent Person named,1,0,,1
+1,4355312,2025,4355312_2025.pdf,I2,Professional registration and body disclosed,1,0,not named,1
+1,4355312,2025,4355312_2025.pdf,I3,Independence of the Competent Person,2,0,not stated,1
+1,4355312,2025,4355312_2025.pdf,I4,Relevant experience of the CP,1,0,not stated,1
+1,4355312,2025,4355312_2025.pdf,I5,Written consent or sign-off statement,1,0,not stated,1
+1,4355312,2025,4355312_2025.pdf,I6,Compliance code named,2,0,not stated,1
+1,4355312,2025,4355312_2025.pdf,I7,Mining method disclosed,2,2,"yes, stated",1
+1,4355312,2025,4355312_2025.pdf,I8,Metallurgical recovery factor,2,2,disclosed for each asset,1
+1,4355312,2025,4355312_2025.pdf,I9,Cut-off grade,2,2,"yes, stated",1
+1,4355312,2025,4355312_2025.pdf,I10,Basis of the cut-off grade,2,1,"numeric, group level",1
+1,4355312,2025,4355312_2025.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4355312,2025,4355312_2025.pdf,I12,Non-technical modifying factors,2,1,indicated,1
+1,4355312,2025,4355312_2025.pdf,I13,Commodity price assumption,2,2,discused,1
+1,4355312,2025,4355312_2025.pdf,I14,Basis of the price assumption,1,2,stated,1
+1,4355312,2025,4355312_2025.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4355312,2025,4355312_2025.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4355312,2025,4355312_2025.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4355312,2025,4355312_2025.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4355312,2025,4355312_2025.pdf,I19,Attribution of the change,2,2,tables shown,1
+1,4355312,2025,4355312_2025.pdf,I20,Resources stated inclusive or exclusive of reserves,1,2,explicitly stated,1
+1,4355312,2025,4355312_2025.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4355312,2025,4355312_2025.pdf,I22,Independent external review of the estimate,2,1,not extensively explained,1
+1,4355312,2025,4355312_2025.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4355312,2025,4355312_2025.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4355316,2018,4355316_2018.pdf,I1,Competent Person named,1,0,not stated,1
+1,4355316,2018,4355316_2018.pdf,I2,Professional registration and body disclosed,1,1,,1
+1,4355316,2018,4355316_2018.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4355316,2018,4355316_2018.pdf,I4,Relevant experience of the CP,1,0,not stated,1
+1,4355316,2018,4355316_2018.pdf,I5,Written consent or sign-off statement,1,0,no,1
+1,4355316,2018,4355316_2018.pdf,I6,Compliance code named,2,2,stated,1
+1,4355316,2018,4355316_2018.pdf,I7,Mining method disclosed,2,2,disclosed,1
+1,4355316,2018,4355316_2018.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4355316,2018,4355316_2018.pdf,I9,Cut-off grade,2,2,stated,1
+1,4355316,2018,4355316_2018.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4355316,2018,4355316_2018.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4355316,2018,4355316_2018.pdf,I12,Non-technical modifying factors,2,2,discussed,1
+1,4355316,2018,4355316_2018.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4355316,2018,4355316_2018.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4355316,2018,4355316_2018.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4355316,2018,4355316_2018.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4355316,2018,4355316_2018.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4355316,2018,4355316_2018.pdf,I18,Year-on-year reserve reconciliation,2,1,not detailed,1
+1,4355316,2018,4355316_2018.pdf,I19,Attribution of the change,2,1,stated,1
+1,4355316,2018,4355316_2018.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4355316,2018,4355316_2018.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,discussed,1
+1,4355316,2018,4355316_2018.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4355316,2018,4355316_2018.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4355316,2018,4355316_2018.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4355316,2020,4355316_2020.pdf,I1,Competent Person named,1,1,stated,1
+1,4355316,2020,4355316_2020.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4355316,2020,4355316_2020.pdf,I3,Independence of the Competent Person,2,1,employees,1
+1,4355316,2020,4355316_2020.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4355316,2020,4355316_2020.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4355316,2020,4355316_2020.pdf,I6,Compliance code named,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I9,Cut-off grade,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4355316,2020,4355316_2020.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4355316,2020,4355316_2020.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I16,Exchange rate and discount rate,2,2,both indicated,1
+1,4355316,2020,4355316_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,not detailed,1
+1,4355316,2020,4355316_2020.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I19,Attribution of the change,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4355316,2020,4355316_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+1,4355316,2020,4355316_2020.pdf,I22,Independent external review of the estimate,2,1,internal peer review,1
+1,4355316,2020,4355316_2020.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4355316,2020,4355316_2020.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4355327,2015,4355327_2015.pdf,I1,Competent Person named,1,1,stated,1
+1,4355327,2015,4355327_2015.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4355327,2015,4355327_2015.pdf,I3,Independence of the Competent Person,2,2,External consultants indicated,1
+1,4355327,2015,4355327_2015.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4355327,2015,4355327_2015.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4355327,2015,4355327_2015.pdf,I6,Compliance code named,2,2,stated,1
+1,4355327,2015,4355327_2015.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4355327,2015,4355327_2015.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4355327,2015,4355327_2015.pdf,I9,Cut-off grade,2,2,stated,1
+1,4355327,2015,4355327_2015.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4355327,2015,4355327_2015.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4355327,2015,4355327_2015.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4355327,2015,4355327_2015.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4355327,2015,4355327_2015.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4355327,2015,4355327_2015.pdf,I15,Operating cost assumption,2,1,group level disclosure,1
+1,4355327,2015,4355327_2015.pdf,I16,Exchange rate and discount rate,2,0,not stated,1
+1,4355327,2015,4355327_2015.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+1,4355327,2015,4355327_2015.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4355327,2015,4355327_2015.pdf,I19,Attribution of the change,2,2,stated,1
+1,4355327,2015,4355327_2015.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4355327,2015,4355327_2015.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4355327,2015,4355327_2015.pdf,I22,Independent external review of the estimate,2,1,External consultants indicated,1
+1,4355327,2015,4355327_2015.pdf,I23,Explanation of a material downward restatement,2,0,not indicated,1
+1,4355327,2015,4355327_2015.pdf,I24,Competent Person site visit,1,0,not indicated,1
+1,4356041,2022,4356041_2022.pdf,I1,Competent Person named,1,1,stated,1
+1,4356041,2022,4356041_2022.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4356041,2022,4356041_2022.pdf,I3,Independence of the Competent Person,2,1,employees,1
+1,4356041,2022,4356041_2022.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4356041,2022,4356041_2022.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4356041,2022,4356041_2022.pdf,I6,Compliance code named,2,2,stated,1
+1,4356041,2022,4356041_2022.pdf,I7,Mining method disclosed,2,2,disclosed,1
+1,4356041,2022,4356041_2022.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4356041,2022,4356041_2022.pdf,I9,Cut-off grade,2,2,stated,1
+1,4356041,2022,4356041_2022.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4356041,2022,4356041_2022.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4356041,2022,4356041_2022.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4356041,2022,4356041_2022.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4356041,2022,4356041_2022.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4356041,2022,4356041_2022.pdf,I15,Operating cost assumption,2,1,partially explained,1
+1,4356041,2022,4356041_2022.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4356041,2022,4356041_2022.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+1,4356041,2022,4356041_2022.pdf,I18,Year-on-year reserve reconciliation,2,1,not explicit,1
+1,4356041,2022,4356041_2022.pdf,I19,Attribution of the change,2,2,stated,1
+1,4356041,2022,4356041_2022.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4356041,2022,4356041_2022.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+1,4356041,2022,4356041_2022.pdf,I22,Independent external review of the estimate,2,1,internal peer review,1
+1,4356041,2022,4356041_2022.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4356041,2022,4356041_2022.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4356041,2024,4356041_2024.pdf,I1,Competent Person named,1,1,stated,1
+1,4356041,2024,4356041_2024.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4356041,2024,4356041_2024.pdf,I3,Independence of the Competent Person,2,2,employees & external consultants ,1
+1,4356041,2024,4356041_2024.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4356041,2024,4356041_2024.pdf,I5,Written consent or sign-off statement,1,1,written confirmation,1
+1,4356041,2024,4356041_2024.pdf,I6,Compliance code named,2,2,stated,1
+1,4356041,2024,4356041_2024.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4356041,2024,4356041_2024.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4356041,2024,4356041_2024.pdf,I9,Cut-off grade,2,2,stated,1
+1,4356041,2024,4356041_2024.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4356041,2024,4356041_2024.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4356041,2024,4356041_2024.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4356041,2024,4356041_2024.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4356041,2024,4356041_2024.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4356041,2024,4356041_2024.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4356041,2024,4356041_2024.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4356041,2024,4356041_2024.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4356041,2024,4356041_2024.pdf,I18,Year-on-year reserve reconciliation,2,1,stated partially,1
+1,4356041,2024,4356041_2024.pdf,I19,Attribution of the change,2,1,partially explained,1
+1,4356041,2024,4356041_2024.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4356041,2024,4356041_2024.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4356041,2024,4356041_2024.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4356041,2024,4356041_2024.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4356041,2024,4356041_2024.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4356041,2025,4356041_2025.pdf,I1,Competent Person named,1,1,stated,1
+1,4356041,2025,4356041_2025.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4356041,2025,4356041_2025.pdf,I3,Independence of the Competent Person,2,2,employees & external consultants ,1
+1,4356041,2025,4356041_2025.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4356041,2025,4356041_2025.pdf,I5,Written consent or sign-off statement,1,1,written confirmation,1
+1,4356041,2025,4356041_2025.pdf,I6,Compliance code named,2,2,stated,1
+1,4356041,2025,4356041_2025.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4356041,2025,4356041_2025.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4356041,2025,4356041_2025.pdf,I9,Cut-off grade,2,2,stated,1
+1,4356041,2025,4356041_2025.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4356041,2025,4356041_2025.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4356041,2025,4356041_2025.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4356041,2025,4356041_2025.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4356041,2025,4356041_2025.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4356041,2025,4356041_2025.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4356041,2025,4356041_2025.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4356041,2025,4356041_2025.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4356041,2025,4356041_2025.pdf,I18,Year-on-year reserve reconciliation,2,1,stated partially,1
+1,4356041,2025,4356041_2025.pdf,I19,Attribution of the change,2,1,partially explained,1
+1,4356041,2025,4356041_2025.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4356041,2025,4356041_2025.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4356041,2025,4356041_2025.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4356041,2025,4356041_2025.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4356041,2025,4356041_2025.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4356548,2016,4356548_2016.pdf,I1,Competent Person named,1,1,stated,1
+1,4356548,2016,4356548_2016.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4356548,2016,4356548_2016.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4356548,2016,4356548_2016.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4356548,2016,4356548_2016.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4356548,2016,4356548_2016.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4356548,2016,4356548_2016.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4356548,2016,4356548_2016.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4356548,2016,4356548_2016.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4356548,2016,4356548_2016.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4356548,2016,4356548_2016.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4356548,2016,4356548_2016.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4356548,2016,4356548_2016.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4356548,2016,4356548_2016.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4356548,2016,4356548_2016.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4356548,2016,4356548_2016.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4356548,2016,4356548_2016.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4356548,2016,4356548_2016.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4356548,2016,4356548_2016.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4356548,2016,4356548_2016.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4356548,2016,4356548_2016.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4356548,2016,4356548_2016.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4356548,2016,4356548_2016.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4356548,2016,4356548_2016.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,4356548,2020,4356548_2020.pdf,I1,Competent Person named,1,1,stated,1
+1,4356548,2020,4356548_2020.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4356548,2020,4356548_2020.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4356548,2020,4356548_2020.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4356548,2020,4356548_2020.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4356548,2020,4356548_2020.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4356548,2020,4356548_2020.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4356548,2020,4356548_2020.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4356548,2020,4356548_2020.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4356548,2020,4356548_2020.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4356548,2020,4356548_2020.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4356548,2020,4356548_2020.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4356548,2020,4356548_2020.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4356548,2020,4356548_2020.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4356548,2020,4356548_2020.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4356548,2020,4356548_2020.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4356548,2020,4356548_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4356548,2020,4356548_2020.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4356548,2020,4356548_2020.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4356548,2020,4356548_2020.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4356548,2020,4356548_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4356548,2020,4356548_2020.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4356548,2020,4356548_2020.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4356548,2020,4356548_2020.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,4379789,2014,4379789_2014.pdf,I1,Competent Person named,1,0,not stated,1
+1,4379789,2014,4379789_2014.pdf,I2,Professional registration and body disclosed,1,1,,1
+1,4379789,2014,4379789_2014.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4379789,2014,4379789_2014.pdf,I4,Relevant experience of the CP,1,0,not stated,1
+1,4379789,2014,4379789_2014.pdf,I5,Written consent or sign-off statement,1,0,no,1
+1,4379789,2014,4379789_2014.pdf,I6,Compliance code named,2,2,stated,1
+1,4379789,2014,4379789_2014.pdf,I7,Mining method disclosed,2,2,disclosed,1
+1,4379789,2014,4379789_2014.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4379789,2014,4379789_2014.pdf,I9,Cut-off grade,2,2,stated,1
+1,4379789,2014,4379789_2014.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4379789,2014,4379789_2014.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4379789,2014,4379789_2014.pdf,I12,Non-technical modifying factors,2,2,discussed,1
+1,4379789,2014,4379789_2014.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4379789,2014,4379789_2014.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4379789,2014,4379789_2014.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4379789,2014,4379789_2014.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4379789,2014,4379789_2014.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4379789,2014,4379789_2014.pdf,I18,Year-on-year reserve reconciliation,2,1,not detailed,1
+1,4379789,2014,4379789_2014.pdf,I19,Attribution of the change,2,1,stated,1
+1,4379789,2014,4379789_2014.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4379789,2014,4379789_2014.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,discussed,1
+1,4379789,2014,4379789_2014.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4379789,2014,4379789_2014.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4379789,2014,4379789_2014.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4379789,2018,4379789_2018.pdf,I1,Competent Person named,1,1,stated,1
+1,4379789,2018,4379789_2018.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4379789,2018,4379789_2018.pdf,I3,Independence of the Competent Person,2,1,employees,1
+1,4379789,2018,4379789_2018.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4379789,2018,4379789_2018.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4379789,2018,4379789_2018.pdf,I6,Compliance code named,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I9,Cut-off grade,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4379789,2018,4379789_2018.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4379789,2018,4379789_2018.pdf,I15,Operating cost assumption,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I16,Exchange rate and discount rate,2,2,both indicated,1
+1,4379789,2018,4379789_2018.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,not detailed,1
+1,4379789,2018,4379789_2018.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I19,Attribution of the change,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4379789,2018,4379789_2018.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+1,4379789,2018,4379789_2018.pdf,I22,Independent external review of the estimate,2,1,internal peer review,1
+1,4379789,2018,4379789_2018.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4379789,2018,4379789_2018.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4379789,2021,4379789_2021.pdf,I1,Competent Person named,1,1,stated,1
+1,4379789,2021,4379789_2021.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4379789,2021,4379789_2021.pdf,I3,Independence of the Competent Person,2,2,External consultants indicated,1
+1,4379789,2021,4379789_2021.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4379789,2021,4379789_2021.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4379789,2021,4379789_2021.pdf,I6,Compliance code named,2,2,stated,1
+1,4379789,2021,4379789_2021.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4379789,2021,4379789_2021.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4379789,2021,4379789_2021.pdf,I9,Cut-off grade,2,2,stated,1
+1,4379789,2021,4379789_2021.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4379789,2021,4379789_2021.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4379789,2021,4379789_2021.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4379789,2021,4379789_2021.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4379789,2021,4379789_2021.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4379789,2021,4379789_2021.pdf,I15,Operating cost assumption,2,1,group level disclosure,1
+1,4379789,2021,4379789_2021.pdf,I16,Exchange rate and discount rate,2,0,not stated,1
+1,4379789,2021,4379789_2021.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+1,4379789,2021,4379789_2021.pdf,I18,Year-on-year reserve reconciliation,2,2,stated,1
+1,4379789,2021,4379789_2021.pdf,I19,Attribution of the change,2,2,stated,1
+1,4379789,2021,4379789_2021.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4379789,2021,4379789_2021.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4379789,2021,4379789_2021.pdf,I22,Independent external review of the estimate,2,1,External consultants indicated,1
+1,4379789,2021,4379789_2021.pdf,I23,Explanation of a material downward restatement,2,0,not indicated,1
+1,4379789,2021,4379789_2021.pdf,I24,Competent Person site visit,1,0,not indicated,1
+1,4379789,2023,4379789_2023.pdf,I1,Competent Person named,1,1,stated,1
+1,4379789,2023,4379789_2023.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4379789,2023,4379789_2023.pdf,I3,Independence of the Competent Person,2,1,employees,1
+1,4379789,2023,4379789_2023.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4379789,2023,4379789_2023.pdf,I5,Written consent or sign-off statement,1,1,stated,1
+1,4379789,2023,4379789_2023.pdf,I6,Compliance code named,2,2,stated,1
+1,4379789,2023,4379789_2023.pdf,I7,Mining method disclosed,2,2,disclosed,1
+1,4379789,2023,4379789_2023.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4379789,2023,4379789_2023.pdf,I9,Cut-off grade,2,2,stated,1
+1,4379789,2023,4379789_2023.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4379789,2023,4379789_2023.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4379789,2023,4379789_2023.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4379789,2023,4379789_2023.pdf,I13,Commodity price assumption,2,2,stated,1
+1,4379789,2023,4379789_2023.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4379789,2023,4379789_2023.pdf,I15,Operating cost assumption,2,1,partially explained,1
+1,4379789,2023,4379789_2023.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4379789,2023,4379789_2023.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+1,4379789,2023,4379789_2023.pdf,I18,Year-on-year reserve reconciliation,2,1,not explicit,1
+1,4379789,2023,4379789_2023.pdf,I19,Attribution of the change,2,2,stated,1
+1,4379789,2023,4379789_2023.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4379789,2023,4379789_2023.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+1,4379789,2023,4379789_2023.pdf,I22,Independent external review of the estimate,2,1,internal peer review,1
+1,4379789,2023,4379789_2023.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4379789,2023,4379789_2023.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4533261,2025,4533261_2025.pdf,I1,Competent Person named,1,1,stated,1
+1,4533261,2025,4533261_2025.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4533261,2025,4533261_2025.pdf,I3,Independence of the Competent Person,2,2,employees & external consultants ,1
+1,4533261,2025,4533261_2025.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4533261,2025,4533261_2025.pdf,I5,Written consent or sign-off statement,1,1,written confirmation,1
+1,4533261,2025,4533261_2025.pdf,I6,Compliance code named,2,2,stated,1
+1,4533261,2025,4533261_2025.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4533261,2025,4533261_2025.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4533261,2025,4533261_2025.pdf,I9,Cut-off grade,2,2,stated,1
+1,4533261,2025,4533261_2025.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4533261,2025,4533261_2025.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4533261,2025,4533261_2025.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4533261,2025,4533261_2025.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4533261,2025,4533261_2025.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4533261,2025,4533261_2025.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4533261,2025,4533261_2025.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4533261,2025,4533261_2025.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4533261,2025,4533261_2025.pdf,I18,Year-on-year reserve reconciliation,2,1,stated partially,1
+1,4533261,2025,4533261_2025.pdf,I19,Attribution of the change,2,1,partially explained,1
+1,4533261,2025,4533261_2025.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4533261,2025,4533261_2025.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4533261,2025,4533261_2025.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4533261,2025,4533261_2025.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4533261,2025,4533261_2025.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4549637,2018,4549637_2018.pdf,I1,Competent Person named,1,1,stated,1
+1,4549637,2018,4549637_2018.pdf,I2,Professional registration and body disclosed,1,1,stated,1
+1,4549637,2018,4549637_2018.pdf,I3,Independence of the Competent Person,2,2,employees & external consultants ,1
+1,4549637,2018,4549637_2018.pdf,I4,Relevant experience of the CP,1,1,stated,1
+1,4549637,2018,4549637_2018.pdf,I5,Written consent or sign-off statement,1,1,written confirmation,1
+1,4549637,2018,4549637_2018.pdf,I6,Compliance code named,2,2,stated,1
+1,4549637,2018,4549637_2018.pdf,I7,Mining method disclosed,2,2,stated,1
+1,4549637,2018,4549637_2018.pdf,I8,Metallurgical recovery factor,2,2,stated,1
+1,4549637,2018,4549637_2018.pdf,I9,Cut-off grade,2,2,stated,1
+1,4549637,2018,4549637_2018.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+1,4549637,2018,4549637_2018.pdf,I11,Dilution and mine call factor,1,1,stated,1
+1,4549637,2018,4549637_2018.pdf,I12,Non-technical modifying factors,2,2,stated,1
+1,4549637,2018,4549637_2018.pdf,I13,Commodity price assumption,2,1,stated,1
+1,4549637,2018,4549637_2018.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4549637,2018,4549637_2018.pdf,I15,Operating cost assumption,2,1,stated,1
+1,4549637,2018,4549637_2018.pdf,I16,Exchange rate and discount rate,2,2,stated,1
+1,4549637,2018,4549637_2018.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4549637,2018,4549637_2018.pdf,I18,Year-on-year reserve reconciliation,2,1,stated partially,1
+1,4549637,2018,4549637_2018.pdf,I19,Attribution of the change,2,1,partially explained,1
+1,4549637,2018,4549637_2018.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+1,4549637,2018,4549637_2018.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+1,4549637,2018,4549637_2018.pdf,I22,Independent external review of the estimate,2,0,not stated,1
+1,4549637,2018,4549637_2018.pdf,I23,Explanation of a material downward restatement,2,0,not stated,1
+1,4549637,2018,4549637_2018.pdf,I24,Competent Person site visit,1,0,not stated,1
+1,4549637,2020,4549637_2020.pdf,I1,Competent Person named,1,1,stated,1
+1,4549637,2020,4549637_2020.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4549637,2020,4549637_2020.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4549637,2020,4549637_2020.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4549637,2020,4549637_2020.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4549637,2020,4549637_2020.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4549637,2020,4549637_2020.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4549637,2020,4549637_2020.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4549637,2020,4549637_2020.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4549637,2020,4549637_2020.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4549637,2020,4549637_2020.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4549637,2020,4549637_2020.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4549637,2020,4549637_2020.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4549637,2020,4549637_2020.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4549637,2020,4549637_2020.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4549637,2020,4549637_2020.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4549637,2020,4549637_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4549637,2020,4549637_2020.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4549637,2020,4549637_2020.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4549637,2020,4549637_2020.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4549637,2020,4549637_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4549637,2020,4549637_2020.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4549637,2020,4549637_2020.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4549637,2020,4549637_2020.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,4698527,2018,4698527_2018.pdf,I1,Competent Person named,1,1,stated,1
+1,4698527,2018,4698527_2018.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,4698527,2018,4698527_2018.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,4698527,2018,4698527_2018.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,4698527,2018,4698527_2018.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,4698527,2018,4698527_2018.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,4698527,2018,4698527_2018.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,4698527,2018,4698527_2018.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,4698527,2018,4698527_2018.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,4698527,2018,4698527_2018.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,4698527,2018,4698527_2018.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,4698527,2018,4698527_2018.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,4698527,2018,4698527_2018.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,4698527,2018,4698527_2018.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,4698527,2018,4698527_2018.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,4698527,2018,4698527_2018.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,4698527,2018,4698527_2018.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,4698527,2018,4698527_2018.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,4698527,2018,4698527_2018.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,4698527,2018,4698527_2018.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,4698527,2018,4698527_2018.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,4698527,2018,4698527_2018.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,4698527,2018,4698527_2018.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,4698527,2018,4698527_2018.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+1,17580030,2021,17580030_2021.pdf,I1,Competent Person named,1,1,"on reserves release, not annual report.",1
+1,17580030,2021,17580030_2021.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,17580030,2021,17580030_2021.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,17580030,2021,17580030_2021.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,17580030,2021,17580030_2021.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,17580030,2021,17580030_2021.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,17580030,2021,17580030_2021.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,17580030,2021,17580030_2021.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,17580030,2021,17580030_2021.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,17580030,2021,17580030_2021.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,17580030,2021,17580030_2021.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,17580030,2021,17580030_2021.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,17580030,2021,17580030_2021.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,17580030,2021,17580030_2021.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,17580030,2021,17580030_2021.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,17580030,2021,17580030_2021.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,17580030,2021,17580030_2021.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,17580030,2021,17580030_2021.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,17580030,2021,17580030_2021.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,17580030,2021,17580030_2021.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,17580030,2021,17580030_2021.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,17580030,2021,17580030_2021.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,17580030,2021,17580030_2021.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,17580030,2021,17580030_2021.pdf,I24,Competent Person site visit,1,0,,1
+1,17580030,2024,17580030_2024.pdf,I1,Competent Person named,1,1,stated,1
+1,17580030,2024,17580030_2024.pdf,I2,Professional registration and body disclosed,1,0,not stated,1
+1,17580030,2024,17580030_2024.pdf,I3,Independence of the Competent Person,2,1,employee,1
+1,17580030,2024,17580030_2024.pdf,I4,Relevant experience of the CP,1,0,absent,1
+1,17580030,2024,17580030_2024.pdf,I5,Written consent or sign-off statement,1,0,absent,1
+1,17580030,2024,17580030_2024.pdf,I6,Compliance code named,2,2,code/year cited,1
+1,17580030,2024,17580030_2024.pdf,I7,Mining method disclosed,2,1,mentioned once,1
+1,17580030,2024,17580030_2024.pdf,I8,Metallurgical recovery factor,2,1,"numeric, group level",1
+1,17580030,2024,17580030_2024.pdf,I9,Cut-off grade,2,2,"numeric, per asset",1
+1,17580030,2024,17580030_2024.pdf,I10,Basis of the cut-off grade,2,1,"stated, dependent on other assets",1
+1,17580030,2024,17580030_2024.pdf,I11,Dilution and mine call factor,1,0,not stated,1
+1,17580030,2024,17580030_2024.pdf,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+1,17580030,2024,17580030_2024.pdf,I13,Commodity price assumption,2,2,prices for differrent minerals,1
+1,17580030,2024,17580030_2024.pdf,I14,Basis of the price assumption,1,1,stated,1
+1,17580030,2024,17580030_2024.pdf,I15,Operating cost assumption,2,2,per-asset cost assumption,1
+1,17580030,2024,17580030_2024.pdf,I16,Exchange rate and discount rate,2,2,both stated,1
+1,17580030,2024,17580030_2024.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+1,17580030,2024,17580030_2024.pdf,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+1,17580030,2024,17580030_2024.pdf,I19,Attribution of the change,2,2,comprehensive attribution,1
+1,17580030,2024,17580030_2024.pdf,I20,Resources stated inclusive or exclusive of reserves,1,1,explicitly stated,1
+1,17580030,2024,17580030_2024.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,discussed qualitatively,1
+1,17580030,2024,17580030_2024.pdf,I22,Independent external review of the estimate,2,0,none disclosed,1
+1,17580030,2024,17580030_2024.pdf,I23,Explanation of a material downward restatement,2,NA,,1
+1,17580030,2024,17580030_2024.pdf,I24,Competent Person site visit,1,0,none disclosed,1
+2,4075105,2012,4075105_2012.pdf,I10,Basis of the cut-off grade,2,0,none disclosed,1
+2,4075105,2012,4075105_2012.pdf,I12,Non-technical modifying factors,2,0,none disclosed,1
+2,4075105,2012,4075105_2012.pdf,I13,Commodity price assumption,2,0,none disclosed,1
+2,4075105,2012,4075105_2012.pdf,I14,Basis of the price assumption,1,0,none disclosed,1
+2,4075105,2012,4075105_2012.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4075105,2012,4075105_2012.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,,1
+2,4149660,2014,4149660_2014.pdf,I10,Basis of the cut-off grade,2,0,not stated,1
+2,4149660,2014,4149660_2014.pdf,I12,Non-technical modifying factors,2,2,stated,1
+2,4149660,2014,4149660_2014.pdf,I13,Commodity price assumption,2,2,,1
+2,4149660,2014,4149660_2014.pdf,I14,Basis of the price assumption,1,2,,1
+2,4149660,2014,4149660_2014.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,,1
+2,4149660,2014,4149660_2014.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,,1
+2,4149660,2020,4149660_2020.pdf,I10,Basis of the cut-off grade,2,2,,1
+2,4149660,2020,4149660_2020.pdf,I12,Non-technical modifying factors,2,1,,1
+2,4149660,2020,4149660_2020.pdf,I13,Commodity price assumption,2,2,,1
+2,4149660,2020,4149660_2020.pdf,I14,Basis of the price assumption,1,2,,1
+2,4149660,2020,4149660_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,documented,1
+2,4149660,2020,4149660_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4149660,2023,4149660_2023.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4149660,2023,4149660_2023.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4149660,2023,4149660_2023.pdf,I13,Commodity price assumption,2,2,explicitly stated,1
+2,4149660,2023,4149660_2023.pdf,I14,Basis of the price assumption,1,0,not stated,1
+2,4149660,2023,4149660_2023.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,,1
+2,4149660,2023,4149660_2023.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,,1
+2,4155293,2018,4155293_2018.pdf,I10,Basis of the cut-off grade,2,0,not named,1
+2,4155293,2018,4155293_2018.pdf,I12,Non-technical modifying factors,2,0,not stated,1
+2,4155293,2018,4155293_2018.pdf,I13,Commodity price assumption,2,0,not stated,1
+2,4155293,2018,4155293_2018.pdf,I14,Basis of the price assumption,1,0,not stated,1
+2,4155293,2018,4155293_2018.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4155293,2018,4155293_2018.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,"yes, stated",1
+2,4188197,2021,4188197_2021.pdf,I10,Basis of the cut-off grade,2,2,disclosed for each asset,1
+2,4188197,2021,4188197_2021.pdf,I12,Non-technical modifying factors,2,2,"yes, stated",1
+2,4188197,2021,4188197_2021.pdf,I13,Commodity price assumption,2,1,"numeric, group level",1
+2,4188197,2021,4188197_2021.pdf,I14,Basis of the price assumption,1,1,stated,1
+2,4188197,2021,4188197_2021.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,indicated,1
+2,4188197,2021,4188197_2021.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,discused,1
+2,4264043,2012,4264043_2012.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4264043,2012,4264043_2012.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4264043,2012,4264043_2012.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4264043,2012,4264043_2012.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4264043,2012,4264043_2012.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+2,4264043,2012,4264043_2012.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,tables shown,1
+2,4264043,2016,4264043_2016.pdf,I10,Basis of the cut-off grade,2,2,explicitly stated,1
+2,4264043,2016,4264043_2016.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4264043,2016,4264043_2016.pdf,I13,Commodity price assumption,2,1,not extensively explained,1
+2,4264043,2016,4264043_2016.pdf,I14,Basis of the price assumption,1,0,not stated,1
+2,4264043,2016,4264043_2016.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4264043,2016,4264043_2016.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+2,4264043,2018,4264043_2018.pdf,I10,Basis of the cut-off grade,2,0,,1
+2,4264043,2018,4264043_2018.pdf,I12,Non-technical modifying factors,2,0,not named,1
+2,4264043,2018,4264043_2018.pdf,I13,Commodity price assumption,2,0,not stated,1
+2,4264043,2018,4264043_2018.pdf,I14,Basis of the price assumption,1,0,not stated,1
+2,4264043,2018,4264043_2018.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4264043,2018,4264043_2018.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+2,4264043,2024,4264043_2024.pdf,I10,Basis of the cut-off grade,2,2,"yes, stated",1
+2,4264043,2024,4264043_2024.pdf,I12,Non-technical modifying factors,2,2,disclosed for each asset,1
+2,4264043,2024,4264043_2024.pdf,I13,Commodity price assumption,2,2,"yes, stated",1
+2,4264043,2024,4264043_2024.pdf,I14,Basis of the price assumption,1,1,"numeric, group level",1
+2,4264043,2024,4264043_2024.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,stated,1
+2,4264043,2024,4264043_2024.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,indicated,1
+2,4347822,2025,4347822_2025.pdf,I10,Basis of the cut-off grade,2,2,discused,1
+2,4347822,2025,4347822_2025.pdf,I12,Non-technical modifying factors,2,2,stated,1
+2,4347822,2025,4347822_2025.pdf,I13,Commodity price assumption,2,1,stated,1
+2,4347822,2025,4347822_2025.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4347822,2025,4347822_2025.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+2,4347822,2025,4347822_2025.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4348055,2014,4348055_2014.pdf,I10,Basis of the cut-off grade,2,2,tables shown,1
+2,4348055,2014,4348055_2014.pdf,I12,Non-technical modifying factors,2,2,explicitly stated,1
+2,4348055,2014,4348055_2014.pdf,I13,Commodity price assumption,2,1,stated,1
+2,4348055,2014,4348055_2014.pdf,I14,Basis of the price assumption,1,1,not extensively explained,1
+2,4348055,2014,4348055_2014.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4348055,2014,4348055_2014.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+2,4348055,2018,4348055_2018.pdf,I10,Basis of the cut-off grade,2,0,not stated,1
+2,4348055,2018,4348055_2018.pdf,I12,Non-technical modifying factors,2,1,,1
+2,4348055,2018,4348055_2018.pdf,I13,Commodity price assumption,2,1,employee,1
+2,4348055,2018,4348055_2018.pdf,I14,Basis of the price assumption,1,0,not stated,1
+2,4348055,2018,4348055_2018.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,no,1
+2,4348055,2018,4348055_2018.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4348055,2020,4348055_2020.pdf,I10,Basis of the cut-off grade,2,2,disclosed,1
+2,4348055,2020,4348055_2020.pdf,I12,Non-technical modifying factors,2,2,stated,1
+2,4348055,2020,4348055_2020.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4348055,2020,4348055_2020.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4348055,2020,4348055_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,stated,1
+2,4348055,2020,4348055_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,discussed,1
+2,4348248,2016,4348248_2016.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4348248,2016,4348248_2016.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4348248,2016,4348248_2016.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4348248,2016,4348248_2016.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4348248,2016,4348248_2016.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+2,4348248,2016,4348248_2016.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,not detailed,1
+2,4349189,2016,4349189_2016.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4349189,2016,4349189_2016.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4349189,2016,4349189_2016.pdf,I13,Commodity price assumption,2,2,discussed,1
+2,4349189,2016,4349189_2016.pdf,I14,Basis of the price assumption,1,0,not stated,1
+2,4349189,2016,4349189_2016.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4349189,2016,4349189_2016.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+2,4349981,2025,4349981_2025.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4349981,2025,4349981_2025.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4349981,2025,4349981_2025.pdf,I13,Commodity price assumption,2,1,employees,1
+2,4349981,2025,4349981_2025.pdf,I14,Basis of the price assumption,1,1,stated,1
+2,4349981,2025,4349981_2025.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,stated,1
+2,4349981,2025,4349981_2025.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4350215,2018,4350215_2018.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4350215,2018,4350215_2018.pdf,I12,Non-technical modifying factors,2,2,stated,1
+2,4350215,2018,4350215_2018.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4350215,2018,4350215_2018.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4350215,2018,4350215_2018.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,stated,1
+2,4350215,2018,4350215_2018.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4350323,2014,4350323_2014.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4350323,2014,4350323_2014.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4350323,2014,4350323_2014.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4350323,2014,4350323_2014.pdf,I14,Basis of the price assumption,1,2,both indicated,1
+2,4350323,2014,4350323_2014.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,not detailed,1
+2,4350323,2014,4350323_2014.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4350468,2023,4350468_2023.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4350468,2023,4350468_2023.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4350468,2023,4350468_2023.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4350468,2023,4350468_2023.pdf,I14,Basis of the price assumption,1,1,internal peer review,1
+2,4350468,2023,4350468_2023.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4350468,2023,4350468_2023.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+2,4350468,2024,4350468_2024.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4350468,2024,4350468_2024.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4350468,2024,4350468_2024.pdf,I13,Commodity price assumption,2,2,External consultants indicated,1
+2,4350468,2024,4350468_2024.pdf,I14,Basis of the price assumption,1,1,stated,1
+2,4350468,2024,4350468_2024.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,stated,1
+2,4350468,2024,4350468_2024.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4351368,2024,4351368_2024.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4351368,2024,4351368_2024.pdf,I12,Non-technical modifying factors,2,2,stated,1
+2,4351368,2024,4351368_2024.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4351368,2024,4351368_2024.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4351368,2024,4351368_2024.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,stated,1
+2,4351368,2024,4351368_2024.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4351564,2016,4351564_2016.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4351564,2016,4351564_2016.pdf,I12,Non-technical modifying factors,2,2,stated,1
+2,4351564,2016,4351564_2016.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4351564,2016,4351564_2016.pdf,I14,Basis of the price assumption,1,1,stated,1
+2,4351564,2016,4351564_2016.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+2,4351564,2016,4351564_2016.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4351564,2021,4351564_2021.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4351564,2021,4351564_2021.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4351564,2021,4351564_2021.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4351564,2021,4351564_2021.pdf,I14,Basis of the price assumption,1,1,stated,1
+2,4351564,2021,4351564_2021.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+2,4351564,2021,4351564_2021.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4353093,2021,4353093_2021.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4353093,2021,4353093_2021.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4353093,2021,4353093_2021.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4353093,2021,4353093_2021.pdf,I14,Basis of the price assumption,1,1,stated,1
+2,4353093,2021,4353093_2021.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,stated,1
+2,4353093,2021,4353093_2021.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4353124,2015,4353124_2015.pdf,I10,Basis of the cut-off grade,2,2,disclosed,1
+2,4353124,2015,4353124_2015.pdf,I12,Non-technical modifying factors,2,2,stated,1
+2,4353124,2015,4353124_2015.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4353124,2015,4353124_2015.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4353124,2015,4353124_2015.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,stated,1
+2,4353124,2015,4353124_2015.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4353124,2021,4353124_2021.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4353124,2021,4353124_2021.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4353124,2021,4353124_2021.pdf,I13,Commodity price assumption,2,1,partially explained,1
+2,4353124,2021,4353124_2021.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4353124,2021,4353124_2021.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4353124,2021,4353124_2021.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,not explicit,1
+2,4354685,2019,4354685_2019.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4354685,2019,4354685_2019.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4354685,2019,4354685_2019.pdf,I13,Commodity price assumption,2,0,not stated,1
+2,4354685,2019,4354685_2019.pdf,I14,Basis of the price assumption,1,1,internal peer review,1
+2,4354685,2019,4354685_2019.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4354685,2019,4354685_2019.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+2,4355312,2014,4355312_2014.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4355312,2014,4355312_2014.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4355312,2014,4355312_2014.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4355312,2014,4355312_2014.pdf,I14,Basis of the price assumption,1,1,stated,1
+2,4355312,2014,4355312_2014.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,written confirmation,1
+2,4355312,2014,4355312_2014.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4355312,2019,4355312_2019.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4355312,2019,4355312_2019.pdf,I12,Non-technical modifying factors,2,2,stated,1
+2,4355312,2019,4355312_2019.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4355312,2019,4355312_2019.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4355312,2019,4355312_2019.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,stated,1
+2,4355312,2019,4355312_2019.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4355312,2021,4355312_2021.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4355312,2021,4355312_2021.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4355312,2021,4355312_2021.pdf,I13,Commodity price assumption,2,1,stated,1
+2,4355312,2021,4355312_2021.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4355312,2021,4355312_2021.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+2,4355312,2021,4355312_2021.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated partially,1
+2,4355327,2016,4355327_2016.pdf,I10,Basis of the cut-off grade,2,1,partially explained,1
+2,4355327,2016,4355327_2016.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4355327,2016,4355327_2016.pdf,I13,Commodity price assumption,2,1,stated,1
+2,4355327,2016,4355327_2016.pdf,I14,Basis of the price assumption,1,0,not stated,1
+2,4355327,2016,4355327_2016.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4355327,2016,4355327_2016.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+2,4355327,2017,4355327_2017.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4355327,2017,4355327_2017.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4355327,2017,4355327_2017.pdf,I13,Commodity price assumption,2,2,indicated,1
+2,4355327,2017,4355327_2017.pdf,I14,Basis of the price assumption,1,1,stated,1
+2,4355327,2017,4355327_2017.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,written confirmation,1
+2,4355327,2017,4355327_2017.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4355327,2023,4355327_2023.pdf,I10,Basis of the cut-off grade,2,2,stated,1
+2,4355327,2023,4355327_2023.pdf,I12,Non-technical modifying factors,2,2,stated,1
+2,4355327,2023,4355327_2023.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4355327,2023,4355327_2023.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4355327,2023,4355327_2023.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,stated,1
+2,4355327,2023,4355327_2023.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+2,4356041,2012,4356041_2012.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4356041,2012,4356041_2012.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4356041,2012,4356041_2012.pdf,I13,Commodity price assumption,2,1,stated,1
+2,4356041,2012,4356041_2012.pdf,I14,Basis of the price assumption,1,2,stated,1
+2,4356041,2012,4356041_2012.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+2,4356041,2012,4356041_2012.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated partially,1
+2,4356041,2015,4356041_2015.pdf,I10,Basis of the cut-off grade,2,1,partially explained,1
+2,4356041,2015,4356041_2015.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4356041,2015,4356041_2015.pdf,I13,Commodity price assumption,2,1,stated,1
+2,4356041,2015,4356041_2015.pdf,I14,Basis of the price assumption,1,0,not stated,1
+2,4356041,2015,4356041_2015.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4356041,2015,4356041_2015.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+2,4360334,2025,4360334_2025.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4360334,2025,4360334_2025.pdf,I12,Non-technical modifying factors,2,0,not stated,1
+2,4360334,2025,4360334_2025.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4360334,2025,4360334_2025.pdf,I14,Basis of the price assumption,1,0,absent,1
+2,4360334,2025,4360334_2025.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,absent,1
+2,4360334,2025,4360334_2025.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,code/year cited,1
+2,4379789,2015,4379789_2015.pdf,I10,Basis of the cut-off grade,2,1,mentioned once,1
+2,4379789,2015,4379789_2015.pdf,I12,Non-technical modifying factors,2,1,"numeric, group level",1
+2,4379789,2015,4379789_2015.pdf,I13,Commodity price assumption,2,2,"numeric, per asset",1
+2,4379789,2015,4379789_2015.pdf,I14,Basis of the price assumption,1,1,"stated, dependent on other assets",1
+2,4379789,2015,4379789_2015.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4379789,2015,4379789_2015.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,"multiple mentioned, as risk factors",1
+2,4379789,2017,4379789_2017.pdf,I10,Basis of the cut-off grade,2,2,prices for differrent minerals,1
+2,4379789,2017,4379789_2017.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4379789,2017,4379789_2017.pdf,I13,Commodity price assumption,2,2,per-asset cost assumption,1
+2,4379789,2017,4379789_2017.pdf,I14,Basis of the price assumption,1,2,both stated,1
+2,4379789,2017,4379789_2017.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+2,4379789,2017,4379789_2017.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,full reconciliation table,1
+2,4533261,2020,4533261_2020.pdf,I10,Basis of the cut-off grade,2,2,comprehensive attribution,1
+2,4533261,2020,4533261_2020.pdf,I12,Non-technical modifying factors,2,1,explicitly stated,1
+2,4533261,2020,4533261_2020.pdf,I13,Commodity price assumption,2,1,discussed qualitatively,1
+2,4533261,2020,4533261_2020.pdf,I14,Basis of the price assumption,1,0,none disclosed,1
+2,4533261,2020,4533261_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,NA,,1
+2,4533261,2020,4533261_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,none disclosed,1
+2,4549637,2017,4549637_2017.pdf,I10,Basis of the cut-off grade,2,1,stated,1
+2,4549637,2017,4549637_2017.pdf,I12,Non-technical modifying factors,2,0,not stated,1
+2,4549637,2017,4549637_2017.pdf,I13,Commodity price assumption,2,2,stated,1
+2,4549637,2017,4549637_2017.pdf,I14,Basis of the price assumption,1,0,absent,1
+2,4549637,2017,4549637_2017.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,absent,1
+2,4549637,2017,4549637_2017.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,code/year cited,1
+2,4698527,2021,4698527_2021.pdf,I10,Basis of the cut-off grade,2,1,mentioned once,1
+2,4698527,2021,4698527_2021.pdf,I12,Non-technical modifying factors,2,1,"numeric, group level",1
+2,4698527,2021,4698527_2021.pdf,I13,Commodity price assumption,2,2,"numeric, per asset",1
+2,4698527,2021,4698527_2021.pdf,I14,Basis of the price assumption,1,1,"stated, dependent on other assets",1
+2,4698527,2021,4698527_2021.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,not stated,1
+2,4698527,2021,4698527_2021.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,"multiple mentioned, as risk factors",1
+2,4698527,2022,4698527_2022.pdf,I10,Basis of the cut-off grade,2,2,prices for differrent minerals,1
+2,4698527,2022,4698527_2022.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,4698527,2022,4698527_2022.pdf,I13,Commodity price assumption,2,2,per-asset cost assumption,1
+2,4698527,2022,4698527_2022.pdf,I14,Basis of the price assumption,1,2,both stated,1
+2,4698527,2022,4698527_2022.pdf,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+2,4698527,2022,4698527_2022.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,2,full reconciliation table,1
+2,4698527,2024,4698527_2024.pdf,I10,Basis of the cut-off grade,2,2,comprehensive attribution,1
+2,4698527,2024,4698527_2024.pdf,I12,Non-technical modifying factors,2,1,explicitly stated,1
+2,4698527,2024,4698527_2024.pdf,I13,Commodity price assumption,2,1,discussed qualitatively,1
+2,4698527,2024,4698527_2024.pdf,I14,Basis of the price assumption,1,0,none disclosed,1
+2,4698527,2024,4698527_2024.pdf,I17,Treatment of royalties and taxes in the cut-off,2,NA,,1
+2,4698527,2024,4698527_2024.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,none disclosed,1
+2,17580030,2020,17580030_2020.pdf,I10,Basis of the cut-off grade,2,0,none disclosed,1
+2,17580030,2020,17580030_2020.pdf,I12,Non-technical modifying factors,2,1,stated,1
+2,17580030,2020,17580030_2020.pdf,I13,Commodity price assumption,2,0,not stated,1
+2,17580030,2020,17580030_2020.pdf,I14,Basis of the price assumption,1,1,"yes, stated",1
+2,17580030,2020,17580030_2020.pdf,I17,Treatment of royalties and taxes in the cut-off,2,0,absent,1
+2,17580030,2020,17580030_2020.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,absent,1
+2,17580030,2023,17580030_2023.pdf,I10,Basis of the cut-off grade,2,2,code/year cited,1
+2,17580030,2023,17580030_2023.pdf,I12,Non-technical modifying factors,2,1,mentioned once,1
+2,17580030,2023,17580030_2023.pdf,I13,Commodity price assumption,2,1,"numeric, group level",1
+2,17580030,2023,17580030_2023.pdf,I14,Basis of the price assumption,1,2,"numeric, per asset",1
+2,17580030,2023,17580030_2023.pdf,I17,Treatment of royalties and taxes in the cut-off,2,1,"stated, dependent on other assets",1
+2,17580030,2023,17580030_2023.pdf,I21,Grade-tonnage curve or cut-off sensitivity,2,0,not stated,1
+3,4075105,2014,,I12,Non-technical modifying factors,2,2,"multiple mentioned, as risk factors",1
+3,4120225,2019,,I7,Mining method disclosed,2,2,prices for differrent minerals,1
+3,4120225,2019,,I18,Year-on-year reserve reconciliation,2,1,stated,1
+3,4120225,2022,,I18,Year-on-year reserve reconciliation,2,2,per-asset cost assumption,1
+3,4144674,2012,,I2,Professional registration and body disclosed,1,1,both stated,1
+3,4144674,2012,,I4,Relevant experience of the CP,1,1,stated,1
+3,4144674,2012,,I18,Year-on-year reserve reconciliation,2,2,full reconciliation table,1
+3,4144674,2012,,I19,Attribution of the change,2,2,comprehensive attribution,1
+3,4144674,2015,,I16,Exchange rate and discount rate,2,2,explicitly stated,1
+3,4144674,2015,,I18,Year-on-year reserve reconciliation,2,1,discussed qualitatively,1
+3,4144674,2016,,I1,Competent Person named,1,1,stated,1
+3,4144674,2016,,I2,Professional registration and body disclosed,1,1,stated,1
+3,4144674,2016,,I4,Relevant experience of the CP,1,1,stated,1
+3,4144674,2016,,I12,Non-technical modifying factors,2,2,stated,1
+3,4144674,2016,,I16,Exchange rate and discount rate,2,1,stated,1
+3,4144674,2016,,I18,Year-on-year reserve reconciliation,2,1,stated,1
+3,4144674,2017,,I8,Metallurgical recovery factor,2,1,stated,1
+3,4144674,2018,,I4,Relevant experience of the CP,1,1,present,1
+3,4144674,2018,,I16,Exchange rate and discount rate,2,2,code/year cited,1
+3,4144674,2018,,I21,Grade-tonnage curve or cut-off sensitivity,2,1,mentioned once,1
+3,4144674,2020,,I13,Commodity price assumption,2,1,stated,1
+3,4144674,2021,,I2,Professional registration and body disclosed,1,1,"numeric, per asset",1
+3,4144674,2021,,I7,Mining method disclosed,2,1,"stated, dependent on other assets",1
+3,4144674,2021,,I8,Metallurgical recovery factor,2,2,stated,1
+3,4144674,2021,,I9,Cut-off grade,2,2,stated,1
+3,4144674,2021,,I10,Basis of the cut-off grade,2,2,stated,1
+3,4144674,2021,,I11,Dilution and mine call factor,1,1,stated,1
+3,4144674,2021,,I12,Non-technical modifying factors,2,2,stated,1
+3,4144674,2021,,I13,Commodity price assumption,2,2,stated,1
+3,4144674,2021,,I15,Operating cost assumption,2,2,stated,1
+3,4144674,2021,,I17,Treatment of royalties and taxes in the cut-off,2,2,stated,1
+3,4144674,2021,,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+3,4144674,2021,,I22,Independent external review of the estimate,2,2,explicitly stated,1
+3,4144674,2022,,I19,Attribution of the change,2,2,discussed,1
+3,4144674,2025,,I9,Cut-off grade,2,2,stated,1
+3,4149660,2014,,I19,Attribution of the change,2,2,stated,1
+3,4149660,2015,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4149660,2025,,I7,Mining method disclosed,2,1,stated,1
+3,4155293,2016,,I7,Mining method disclosed,2,1,disclosed,1
+3,4155293,2017,,I13,Commodity price assumption,2,2,stated,1
+3,4155293,2024,,I7,Mining method disclosed,2,2,"yes, stated",1
+3,4155293,2024,,I9,Cut-off grade,2,2,"yes, stated",1
+3,4155293,2024,,I12,Non-technical modifying factors,2,2,"yes, stated",1
+3,4155293,2024,,I13,Commodity price assumption,2,2,stated,1
+3,4155293,2024,,I16,Exchange rate and discount rate,2,2,stated,1
+3,4155293,2024,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4155293,2024,,I19,Attribution of the change,2,2,stated,1
+3,4155293,2024,,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+3,4155293,2025,,I2,Professional registration and body disclosed,1,1,disclosed,1
+3,4155293,2025,,I4,Relevant experience of the CP,1,1,stated,1
+3,4155293,2025,,I7,Mining method disclosed,2,1,stated,1
+3,4155293,2025,,I9,Cut-off grade,2,2,stated,1
+3,4155293,2025,,I13,Commodity price assumption,2,2,stated,1
+3,4188197,2016,,I8,Metallurgical recovery factor,2,2,stated,1
+3,4188197,2016,,I11,Dilution and mine call factor,1,1,stated,1
+3,4188197,2017,,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+3,4188197,2019,,I8,Metallurgical recovery factor,2,2,explicitly stated,1
+3,4188197,2022,,I18,Year-on-year reserve reconciliation,2,1,discussed qualitatively,1
+3,4188197,2022,,I19,Attribution of the change,2,2,stated,1
+3,4188197,2023,,I9,Cut-off grade,2,NA,,1
+3,4188197,2023,,I19,Attribution of the change,2,2,stated,1
+3,4188197,2025,,I19,Attribution of the change,2,2,stated,1
+3,4193273,2017,,I18,Year-on-year reserve reconciliation,2,1,stated,1
+3,4193273,2017,,I19,Attribution of the change,2,2,stated,1
+3,4193273,2018,,I19,Attribution of the change,2,2,stated,1
+3,4193273,2019,,I18,Year-on-year reserve reconciliation,2,1,stated,1
+3,4193273,2019,,I19,Attribution of the change,2,1,stated,1
+3,4193273,2021,,I1,Competent Person named,1,1,named,1
+3,4193273,2021,,I2,Professional registration and body disclosed,1,1,stated,1
+3,4193273,2021,,I4,Relevant experience of the CP,1,1,stated,1
+3,4193273,2021,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4193273,2021,,I19,Attribution of the change,2,2,stated,1
+3,4193273,2022,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4193273,2023,,I2,Professional registration and body disclosed,1,1,stated,1
+3,4193273,2023,,I4,Relevant experience of the CP,1,1,stated,1
+3,4193273,2023,,I7,Mining method disclosed,2,2,stated,1
+3,4264043,2021,,I4,Relevant experience of the CP,1,1,stated,1
+3,4264043,2021,,I7,Mining method disclosed,2,2,documented,1
+3,4264043,2024,,I4,Relevant experience of the CP,1,1,stated,1
+3,4264043,2025,,I4,Relevant experience of the CP,1,1,stated,1
+3,4264043,2025,,I18,Year-on-year reserve reconciliation,2,1,stated,1
+3,4264043,2025,,I19,Attribution of the change,2,2,explicitly stated,1
+3,4264043,2025,,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+3,4347817,2013,,I9,Cut-off grade,2,2,stated,1
+3,4347817,2014,,I9,Cut-off grade,2,2,stated,1
+3,4348055,2013,,I6,Compliance code named,2,2,named,1
+3,4348055,2013,,I9,Cut-off grade,2,2,stated,1
+3,4348055,2013,,I10,Basis of the cut-off grade,2,2,stated,1
+3,4348055,2013,,I12,Non-technical modifying factors,2,2,stated,1
+3,4348055,2013,,I19,Attribution of the change,2,2,stated,1
+3,4348055,2013,,I20,Resources stated inclusive or exclusive of reserves,1,1,"yes, stated",1
+3,4348055,2017,,I18,Year-on-year reserve reconciliation,2,2,disclosed for each asset,1
+3,4348055,2017,,I19,Attribution of the change,2,2,"yes, stated",1
+3,4348055,2018,,I19,Attribution of the change,2,2,discussed,1
+3,4348055,2019,,I18,Year-on-year reserve reconciliation,2,1,stated,1
+3,4348055,2019,,I19,Attribution of the change,2,1,indicated,1
+3,4348055,2020,,I19,Attribution of the change,2,2,discused,1
+3,4348055,2021,,I1,Competent Person named,1,1,stated,1
+3,4348055,2021,,I2,Professional registration and body disclosed,1,1,stated,1
+3,4348055,2021,,I4,Relevant experience of the CP,1,1,stated,1
+3,4348055,2024,,I1,Competent Person named,1,1,stated,1
+3,4348055,2024,,I2,Professional registration and body disclosed,1,1,stated,1
+3,4348055,2024,,I4,Relevant experience of the CP,1,1,stated,1
+3,4348055,2024,,I7,Mining method disclosed,2,2,explicitly stated,1
+3,4348055,2024,,I9,Cut-off grade,2,2,stated,1
+3,4348055,2025,,I8,Metallurgical recovery factor,2,2,indicated,1
+3,4348055,2025,,I11,Dilution and mine call factor,1,1,stated,1
+3,4348248,2017,,I12,Non-technical modifying factors,2,2,stated,1
+3,4350215,2012,,I9,Cut-off grade,2,2,stated,1
+3,4350215,2015,,I16,Exchange rate and discount rate,2,2,stated,1
+3,4351190,2013,,I7,Mining method disclosed,2,2,disclosed,1
+3,4351190,2013,,I10,Basis of the cut-off grade,2,2,stated,1
+3,4351190,2013,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4351190,2016,,I8,Metallurgical recovery factor,2,2,stated,1
+3,4351190,2018,,I8,Metallurgical recovery factor,2,2,stated,1
+3,4351190,2018,,I11,Dilution and mine call factor,1,1,"yes, stated",1
+3,4351190,2020,,I1,Competent Person named,1,1,stated,1
+3,4351190,2022,,I1,Competent Person named,1,1,"yes, stated",1
+3,4351190,2022,,I13,Commodity price assumption,2,2,stated,1
+3,4351190,2023,,I13,Commodity price assumption,2,1,stated,1
+3,4351190,2024,,I19,Attribution of the change,2,1,indicated,1
+3,4351694,2013,,I2,Professional registration and body disclosed,1,1,discused,1
+3,4351694,2013,,I4,Relevant experience of the CP,1,1,stated,1
+3,4351694,2013,,I8,Metallurgical recovery factor,2,2,stated,1
+3,4351694,2013,,I19,Attribution of the change,2,2,stated,1
+3,4351694,2013,,I20,Resources stated inclusive or exclusive of reserves,1,1,stated,1
+3,4351694,2015,,I11,Dilution and mine call factor,1,1,stated,1
+3,4351694,2016,,I9,Cut-off grade,2,2,"yes, stated",1
+3,4351694,2019,,I4,Relevant experience of the CP,1,1,explicitly stated,1
+3,4351694,2021,,I4,Relevant experience of the CP,1,1,stated,1
+3,4351694,2021,,I19,Attribution of the change,2,2,stated,1
+3,4351694,2023,,I9,Cut-off grade,2,2,stated,1
+3,4351694,2023,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4351694,2023,,I19,Attribution of the change,2,2,stated,1
+3,4351694,2024,,I1,Competent Person named,1,1,stated,1
+3,4351694,2024,,I2,Professional registration and body disclosed,1,1,"yes, stated",1
+3,4351694,2024,,I4,Relevant experience of the CP,1,1,stated,1
+3,4351694,2024,,I12,Non-technical modifying factors,2,2,stated,1
+3,4351694,2024,,I16,Exchange rate and discount rate,2,2,stated,1
+3,4351694,2024,,I18,Year-on-year reserve reconciliation,2,2,disclosed,1
+3,4351694,2024,,I21,Grade-tonnage curve or cut-off sensitivity,2,2,stated,1
+3,4351694,2024,,I23,Explanation of a material downward restatement,2,2,stated,1
+3,4351694,2025,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4353093,2021,,I8,Metallurgical recovery factor,2,2,stated,1
+3,4353093,2022,,I8,Metallurgical recovery factor,2,2,discussed,1
+3,4353124,2018,,I3,Independence of the Competent Person,2,1,stated,1
+3,4353200,2012,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4354011,2013,,I16,Exchange rate and discount rate,2,2,stated,1
+3,4354011,2018,,I1,Competent Person named,1,1,stated,1
+3,4354011,2018,,I2,Professional registration and body disclosed,1,1,stated,1
+3,4354011,2018,,I3,Independence of the Competent Person,2,1,employee,1
+3,4354011,2018,,I9,Cut-off grade,2,2,stated,1
+3,4354011,2018,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4355312,2013,,I13,Commodity price assumption,2,2,discussed,1
+3,4355312,2015,,I5,Written consent or sign-off statement,1,1,stated,1
+3,4355312,2019,,I1,Competent Person named,1,1,stated,1
+3,4355312,2019,,I2,Professional registration and body disclosed,1,1,stated,1
+3,4355312,2019,,I6,Compliance code named,2,1,stated,1
+3,4355316,2022,,I1,Competent Person named,1,1,stated,1
+3,4355316,2023,,I1,Competent Person named,1,1,"yes, stated",1
+3,4356041,2014,,I12,Non-technical modifying factors,2,1,stated,1
+3,4360334,2022,,I1,Competent Person named,1,1,stated,1
+3,4360334,2023,,I1,Competent Person named,1,1,stated,1
+3,4379789,2013,,I1,Competent Person named,1,1,stated,1
+3,4379789,2013,,I15,Operating cost assumption,2,2,stated,1
+3,4379789,2013,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4379789,2016,,I1,Competent Person named,1,1,stated,1
+3,4379789,2016,,I4,Relevant experience of the CP,1,1,stated,1
+3,4379789,2016,,I7,Mining method disclosed,2,2,stated,1
+3,4379789,2016,,I8,Metallurgical recovery factor,2,2,stated,1
+3,4379789,2016,,I9,Cut-off grade,2,1,stated,1
+3,4379789,2016,,I11,Dilution and mine call factor,1,1,stated,1
+3,4379789,2016,,I12,Non-technical modifying factors,2,2,indicated,1
+3,4379789,2016,,I13,Commodity price assumption,2,2,stated,1
+3,4379789,2016,,I15,Operating cost assumption,2,2,stated,1
+3,4379789,2016,,I16,Exchange rate and discount rate,2,2,stated,1
+3,4379789,2016,,I18,Year-on-year reserve reconciliation,2,1,stated,1
+3,4379789,2016,,I19,Attribution of the change,2,2,stated,1
+3,4379789,2016,,I21,Grade-tonnage curve or cut-off sensitivity,2,1,stated,1
+3,4379789,2017,,I4,Relevant experience of the CP,1,1,stated,1
+3,4379789,2017,,I7,Mining method disclosed,2,1,stated,1
+3,4379789,2022,,I1,Competent Person named,1,1,stated,1
+3,4533261,2022,,I1,Competent Person named,1,1,stated,1
+3,4549637,2023,,I18,Year-on-year reserve reconciliation,2,2,stated,1
+3,4549637,2024,,I19,Attribution of the change,2,1,stated,1
+3,4698527,2021,,I9,Cut-off grade,2,1,stated,1
+3,4796000,2018,,I9,Cut-off grade,2,2,stated,1
+3,4796000,2020,,I9,Cut-off grade,2,2,stated,1
